@@ -5,7 +5,6 @@ import Image from "next/image";
 import { ReservationModal } from "@/components/ReservationModal";
 import { LinkPreview } from "@/components/ui/link-preview";
 import { AnimatedText } from "@/components/ui/cta";
-import { PhotoGallery } from "@/components/activitiescards";
 import { BackgroundPaths } from "@/components/AnimatedHero";
 
 import { InfiniteSlider } from "@/components/testimonials-doublelinecarousel";
@@ -345,9 +344,7 @@ export default function Home() {
       {/* Section Expériences Locales */}
       <AnimalScrollExperience />
 
-      <section className="px-4 bg-custom-color-2 overflow-hidden h-[600px]">
-      <PhotoGallery animationDelay={0.3} />
-      </section>
+      
 
       {/* Section SEO - Zoo de Beauval & Le Clos des Rossignols */}
       <section className="py-20 px-4 bg-custom-color text-white">
