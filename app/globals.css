@@ -2,6 +2,11 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
+/* Définition de la police Neucha pour les titres */
+.font-heading {
+  font-family: 'Neucha', cursive;
+}
+
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
@@ -82,6 +87,26 @@
   --custom-color: #183933;
   --custom-color-2: #deaf00;
   --custom-color-3: #0d2c3b;
+  
+  /* Variables pour l'accordéon */
+  --main: #88aaee;
+  --overlay: rgba(0, 0, 0, 0.8);
+  --bg: #dfe5f2;
+  --bw: #fff;
+  --blank: #000;
+  --border: #000;
+  --text: #000;
+  --mtext: #000;
+  --ring: #000;
+  --ring-offset: #fff;
+  --border-radius: 5px;
+  --box-shadow-x: 4px;
+  --box-shadow-y: 4px;
+  --reverse-box-shadow-x: -4px;
+  --reverse-box-shadow-y: -4px;
+  --base-font-weight: 500;
+  --heading-font-weight: 700;
+  --shadow: var(--box-shadow-x) var(--box-shadow-y) 0px 0px var(--border);
 }
 
 .dark {
@@ -236,6 +261,23 @@
 .clos-des-rossignols-marker {
   background: transparent !important;
   border: none !important;
+}
+
+/* Forcer la couleur de fond des composants FAQ details */
+details.faq-3d-shadow {
+  background-color: var(--custom-color) !important;
+}
+
+details.faq-3d-shadow[open] {
+  background-color: var(--custom-color) !important;
+}
+
+details.faq-3d-shadow summary {
+  background-color: var(--custom-color) !important;
+}
+
+details.faq-3d-shadow[open] summary {
+  background-color: var(--custom-color) !important;
 }
 
 .clos-des-rossignols-marker > div {
@@ -427,6 +469,325 @@
 /* Animation des bulles au scroll (sans bloquer le scroll) */
 .floating-bubble {
   transition: transform 0.3s ease-out;
+}
+
+/* Styles pour l'accordéon */
+.rounded-base {
+  border-radius: var(--border-radius);
+}
+
+.shadow-shadow {
+  box-shadow: var(--shadow);
+}
+
+.bg-main {
+  background-color: var(--main);
+}
+
+.bg-bw {
+  background-color: var(--bw);
+}
+
+.text-mtext {
+  color: var(--mtext);
+}
+
+.border-border {
+  border-color: var(--border);
+}
+
+.font-heading {
+  font-weight: var(--heading-font-weight);
+}
+
+.font-base {
+  font-weight: var(--base-font-weight);
+}
+
+/* Animations pour l'accordéon */
+@keyframes accordion-down {
+  from {
+    height: 0;
+  }
+  to {
+    height: var(--radix-accordion-content-height);
+  }
+}
+
+@keyframes accordion-up {
+  from {
+    height: var(--radix-accordion-content-height);
+  }
+  to {
+    height: 0;
+  }
+}
+
+.animate-accordion-down {
+  animation: accordion-down 300ms cubic-bezier(0.87, 0, 0.13, 1);
+}
+
+.animate-accordion-up {
+  animation: accordion-up 300ms cubic-bezier(0.87, 0, 0.13, 1);
+}
+
+/* Styles pour les éléments details/summary accessibles */
+details {
+  transition: all 0.3s ease;
+}
+
+details[open] {
+  transform: scale(1.02);
+}
+
+details[open] summary {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+summary {
+  transition: all 0.3s ease;
+  user-select: none;
+}
+
+summary:hover {
+  background-color: rgba(222, 175, 0, 0.1);
+}
+
+summary:focus {
+  outline: none;
+}
+
+summary:focus-visible {
+  outline: 2px solid var(--custom-color-2);
+  outline-offset: 2px;
+}
+
+/* Animation de rotation pour l'icône de déploiement */
+details[open] summary .group-open\:rotate-180 {
+  transform: rotate(180deg);
+}
+
+/* Support pour les navigateurs qui ne supportent pas details/summary */
+@supports not (selector(details)) {
+  .faq-fallback {
+    display: block;
+  }
+  
+  details {
+    display: none;
+  }
+}
+
+/* Masquer le fallback par défaut */
+.faq-fallback {
+  display: none;
+}
+
+/* Afficher le fallback quand JavaScript est désactivé */
+noscript .faq-fallback {
+  display: block;
+}
+
+/* Masquer les éléments details quand le fallback est affiché */
+noscript details {
+  display: none;
+}
+
+/* Effets 3D pour les paragraphes de la ville */
+.city-paragraph-3d {
+  position: relative;
+  z-index: 10;
+  background-color: var(--custom-color-2) !important;
+}
+
+.city-paragraph-3d summary {
+  background-color: var(--custom-color-2) !important;
+}
+
+.city-paragraph-3d > div {
+  background-color: var(--custom-color-2) !important;
+}
+
+/* Correction pour l'effet 3D des paragraphes */
+.city-paragraph-3d::before {
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  right: -8px;
+  width: 100%;
+  height: 100%;
+  background: black;
+  border-radius: 1rem;
+  opacity: 0.6;
+  transition: all 0.5s ease;
+  z-index: -1;
+}
+
+/* Animation de l'ombre au survol pour les paragraphes */
+.group:hover .city-paragraph-3d::before {
+  opacity: 0.8;
+  transform: translateY(-4px) translateX(-4px);
+}
+
+.group:hover .city-paragraph-3d {
+  transform: translateY(-4px) translateX(-4px);
+}
+
+/* Masquer le fallback par défaut pour les paragraphes */
+.city-paragraph-fallback {
+  display: none;
+}
+
+/* Afficher le fallback quand JavaScript est désactivé */
+noscript .city-paragraph-fallback {
+  display: block;
+}
+
+/* Masquer les éléments details quand le fallback est affiché */
+noscript .city-paragraph-3d {
+  display: none;
+}
+
+/* Effets 3D pour les cartes FAQ */
+.faq-3d-shadow {
+  position: relative;
+  z-index: 10;
+}
+
+.faq-3d-shadow::before {
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  right: -8px;
+  width: 100%;
+  height: 100%;
+  background: black;
+  border-radius: 1rem;
+  opacity: 0.6;
+  transition: all 0.5s ease;
+  z-index: -1;
+}
+
+/* Animation de l'ombre au survol - une seule ombre */
+.group:hover .faq-3d-shadow::before {
+  opacity: 0.8;
+  transform: translateY(-4px) translateX(-4px);
+}
+
+/* Suppression des ombres en double */
+.group:hover .faq-3d-shadow {
+  transform: translateY(-4px) translateX(-4px);
+}
+
+/* Amélioration de l'accessibilité pour les lecteurs d'écran */
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary::marker {
+  display: none;
+}
+
+/* S'assurer que les details s'ouvrent correctement */
+details[open] {
+  background-color: var(--custom-color-2) !important;
+}
+
+details[open] summary {
+  background-color: var(--custom-color-2) !important;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+/* Correction pour éviter la transparence */
+.city-paragraph-3d,
+.city-paragraph-3d summary,
+.city-paragraph-3d > div,
+.city-paragraph-3d details[open] {
+  background-color: var(--custom-color-2) !important;
+  background: var(--custom-color-2) !important;
+}
+
+/* S'assurer que le texte reste visible au hover */
+.city-paragraph-3d:hover,
+.city-paragraph-3d:hover summary,
+.city-paragraph-3d:hover > div,
+.city-paragraph-3d:hover .text-custom-color {
+  color: var(--custom-color) !important;
+  background-color: var(--custom-color-2) !important;
+}
+
+/* Empêcher la transparence du texte au hover */
+.city-paragraph-3d:hover p,
+.city-paragraph-3d:hover h1,
+.city-paragraph-3d:hover h2,
+.city-paragraph-3d:hover h3,
+.city-paragraph-3d:hover li,
+.city-paragraph-3d:hover strong,
+.city-paragraph-3d:hover em {
+  color: var(--custom-color) !important;
+  opacity: 1 !important;
+}
+
+/* S'assurer que l'effet de brillance n'interfère pas avec le texte */
+.city-paragraph-3d .absolute.inset-0 {
+  pointer-events: none;
+  z-index: 1;
+}
+
+.city-paragraph-3d .text-custom-color {
+  position: relative;
+  z-index: 2;
+}
+
+/* Empêcher la propagation des événements de clic sur le summary */
+.city-paragraph-3d summary {
+  pointer-events: auto;
+}
+
+/* S'assurer que le numéro et la flèche restent visibles au hover */
+.city-paragraph-3d:hover .w-12.h-12,
+.city-paragraph-3d:hover .w-8.h-8 {
+  background-color: var(--custom-color) !important;
+  color: var(--custom-color-2) !important;
+}
+
+.city-paragraph-3d:hover .w-12.h-12 svg,
+.city-paragraph-3d:hover .w-8.h-8 svg {
+  color: var(--custom-color-2) !important;
+}
+
+/* Forcer la visibilité des éléments importants au hover */
+.city-paragraph-3d:hover .flex-shrink-0 {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* Styles spécifiques pour le numéro et la flèche */
+.paragraph-number,
+.paragraph-arrow {
+  position: relative;
+  z-index: 10;
+}
+
+.city-paragraph-3d:hover .paragraph-number,
+.city-paragraph-3d:hover .paragraph-arrow {
+  background-color: var(--custom-color) !important;
+  color: var(--custom-color-2) !important;
+}
+
+.city-paragraph-3d:hover .paragraph-arrow svg {
+  color: var(--custom-color-2) !important;
+}
+
+/* S'assurer que ces éléments ne disparaissent jamais */
+.paragraph-number,
+.paragraph-arrow,
+.paragraph-number *,
+.paragraph-arrow * {
+  opacity: 1 !important;
+  visibility: visible !important;
 }
 
 /* Effet de parallaxe léger au scroll */

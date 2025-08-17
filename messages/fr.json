@@ -16,8 +16,8 @@
     }
   },
   "hero": {
-    "title": "Découvrez des expériences uniques dans nos maisons thématiques",
-    "subtitle": "Plongez dans un monde d'aventures avec nos 9 maisons inspirées des animaux sauvages. Chaque séjour est une expérience immersive avec des activités sur mesure.",
+    "title": "Le Clos des Rossignols à {cityName}",
+    "subtitle": "Découvrez la magie des châteaux et la beauté des paysages du Val de Loire à proximité du Zoo de Beauval",
     "mainTitle": "Val de Loire",
     "subTitle": "Le Clos des Rossignols",
     "description": "Découvrez des expériences immersives dans nos maisons inspirées des animaux sauvages. Une aventure unique au cœur de la Vallée de la Loire.",
@@ -388,10 +388,8 @@
   "cities": {
     "dynamic": {
       "hero": {
-        "title": "Val de Loire France - {cityName}",
-        "subtitle": "Découvrez {cityName} et ses environs près des vignobles et châteaux locaux. Profitez de nos hébergements thématiques uniques pour explorer les plus beaux sites touristiques de la région.",
-        "cta1": "Réserver maintenant",
-        "cta2": "Découvrir la région"
+        "title": "Le Clos des Rossignols à {cityName}",
+        "subtitle": "Découvrez la magie des châteaux et la beauté des paysages du Val de Loire à proximité du Zoo de Beauval"
       },
       "calendar": {
         "title": "Réservez votre séjour dès maintenant !",
@@ -484,95 +482,92 @@
         "subtitle": "Découvrez ce que disent nos visiteurs de leur expérience dans nos maisons thématiques près des vignobles et châteaux locaux."
       },
       "houses": {
-        "title": "Découvrez nos Maisons Thématiques",
-        "subtitle": "Chaque maison a sa propre identité et son ambiance unique, inspirée des animaux sauvages. Une expérience immersive près des vignobles et châteaux locaux.",
-        "brand": "Le Clos des Rossignols",
-        "description": "Découvrez nos maisons près des vignobles et châteaux locaux",
-        "tagline": "Le Clos des Rossignols - Vignobles et Châteaux Locaux",
-        "cta": "Découvrez nos maisons"
+        "title": "Nos Maisons Thématiques",
+        "subtitle": "Découvrez nos hébergements uniques inspirés des animaux sauvages du Zoo de Beauval"
       },
       "citySection": {
-        "defaultTitle": "Découvrez cette ville unique",
-        "defaultSubtitle": "Une expérience authentique vous attend"
+        "defaultTitle": "Découvrez {cityName}",
+        "defaultSubtitle": "Une ville chargée d'histoire et de charme dans le Val de Loire",
+        "paragraphTitle": "{cityName}"
       },
       "finalCta1": {
-        "title": "Prêt à vivre une expérience unique près des vignobles et châteaux locaux - {cityName} ?",
-        "subtitle": "Réservez votre séjour maintenant et bénéficiez de nos offres spéciales. Nos hébergements uniques et activités exclusives vous attendent pour des vacances inoubliables.",
-        "cta1": "Réserver mon séjour",
-        "cta2": "Découvrir {cityName}"
+        "title": "Prêt à découvrir le Zoo de Beauval ?",
+        "subtitle": "Réservez votre séjour dans nos maisons thématiques et profitez de cette expérience unique près de {cityName}",
+        "cta1": "Réserver maintenant",
+        "cta2": "Découvrir nos maisons"
       },
 
       "faq": {
-        "title": "Questions Fréquentes - Vignobles et {cityName}",
-        "subtitle": "Tout ce que vous devez savoir pour organiser votre séjour à {cityName} et découvrir ses vignobles locaux",
+        "title": "Questions Fréquentes sur {cityName}",
+        "subtitle": "Tout ce que vous devez savoir pour visiter cette ville et ses environs",
         "q1": {
-          "question": "Quelle est la meilleure période pour visiter {cityName} et découvrir ses vignobles locaux ?",
-          "answer": "La meilleure période pour visiter {cityName} et ses vignobles s'étend d'avril à octobre. Le printemps offre des paysages magnifiques avec les vignes en fleurs, l'été permet de profiter pleinement des dégustations de vins et des activités viticoles, et l'automne offre les vendanges et des couleurs spectaculaires. L'hiver, bien que plus calme, permet de découvrir les caves et déguster les vins de garde dans une atmosphère intimiste.",
+          "question": "Quels sont les meilleurs moments pour visiter le Zoo de Beauval ?",
+          "answer": "Le printemps et l'automne sont idéaux pour visiter le Zoo de Beauval. Les températures sont agréables et les animaux sont plus actifs.",
           "category": "location"
         },
         "q2": {
-          "question": "Combien de temps faut-il pour découvrir les vignobles et domaines viticoles autour de {cityName} ?",
-          "answer": "Pour une découverte complète des vignobles autour de {cityName}, nous recommandons au moins 3 à 4 jours. Cela vous permettra de visiter les domaines viticoles locaux, participer aux dégustations, découvrir les caves historiques, et profiter des activités viticoles. Pour une expérience plus approfondie avec Le Clos des Rossignols, une semaine est idéale.",
+          "question": "Combien de temps faut-il pour visiter le Zoo de Beauval ?",
+          "answer": "Prévoyez une journée complète pour visiter le Zoo de Beauval. Avec plus de 35 000 animaux, il y a beaucoup à découvrir.",
           "category": "planning"
         },
         "q3": {
-          "question": "Comment se déplacer entre les vignobles et domaines viticoles depuis {cityName} ?",
-          "answer": "La voiture est le moyen de transport le plus pratique pour explorer les vignobles autour de {cityName}. Les domaines viticoles sont bien reliés par des routes départementales. Des circuits viticoles organisés sont également disponibles depuis {cityName}, et Le Clos des Rossignols propose des services de transport personnalisés pour nos clients."
+          "question": "Comment se rendre au Zoo de Beauval depuis {cityName} ?",
+          "answer": "En voiture, le Zoo de Beauval est à quelques minutes de {cityName}. Suivez les panneaux directionnels depuis le centre-ville."
         },
         "q4": {
-          "question": "Quels sont les restaurants et domaines viticoles recommandés à proximité de {cityName} ?",
-          "answer": "La région autour de {cityName} regorge d'excellents restaurants et domaines viticoles proposant une cuisine traditionnelle française et des spécialités locales. Nous recommandons particulièrement les restaurants gastronomiques des vignobles, les fermes-auberges authentiques, et les établissements proposant des vins locaux. Le Clos des Rossignols peut vous fournir une liste personnalisée selon vos préférences."
+          "question": "Où manger au Zoo de Beauval ?",
+          "answer": "Le Zoo de Beauval dispose de plusieurs restaurants et points de restauration. Vous pouvez aussi apporter votre pique-nique."
         },
         "q5": {
-          "question": "Y a-t-il des activités pour les enfants dans les vignobles autour de {cityName} ?",
-          "answer": "Absolument ! Les vignobles autour de {cityName} proposent de nombreuses activités familiales. Les domaines viticoles organisent des visites adaptées aux enfants, des ateliers de découverte du raisin, et des activités ludiques. De nombreuses activités de plein air sont également disponibles : randonnées dans les vignes, vélo entre les domaines, et découverte de la nature viticole."
+          "question": "Quelles activités faire en famille au Zoo de Beauval ?",
+          "answer": "Le Zoo de Beauval propose des spectacles d'oiseaux, des nourrissages d'animaux et des animations pour toute la famille."
         },
         "q6": {
-          "question": "Peut-on visiter les vignobles et caves autour de {cityName} en hiver ?",
-          "answer": "Oui, la plupart des vignobles et caves autour de {cityName} sont ouverts toute l'année, avec des horaires adaptés en hiver. Cette période offre l'avantage d'une fréquentation moindre et d'une atmosphère plus authentique. Les caves sont particulièrement agréables en hiver pour déguster les vins de garde et découvrir les secrets de la vinification."
+          "question": "Quel temps fait-il au Zoo de Beauval ?",
+          "answer": "Le Zoo de Beauval est ouvert toute l'année. En été, visitez tôt le matin pour éviter la chaleur et voir les animaux actifs."
         },
         "q7": {
-          "question": "Quels sont les hébergements disponibles à {cityName} près des vignobles ?",
-          "answer": "À {cityName}, vous trouverez nos maisons thématiques uniques du Clos des Rossignols, des chambres d'hôtes traditionnelles, des gîtes ruraux, et des hôtels de charme. Nos hébergements sont situés dans des cadres exceptionnels au cœur des vignobles, offrant confort moderne et authenticité viticole. Nous proposons également des formules avec petit-déjeuner et demi-pension."
+          "question": "Où dormir près du Zoo de Beauval ?",
+          "answer": "Le Clos des Rossignols propose des hébergements thématiques uniques à quelques minutes du Zoo de Beauval."
         },
         "q8": {
-          "question": "Comment réserver les visites des vignobles et domaines viticoles autour de {cityName} ?",
-          "answer": "Nous vous recommandons de réserver vos visites des vignobles à l'avance, surtout en haute saison. Vous pouvez réserver directement sur les sites officiels des domaines viticoles, ou nous contacter pour organiser des visites guidées privées. Le Clos des Rossignols propose également des forfaits combinant hébergement et visites viticoles."
+          "question": "Comment réserver un hébergement au Clos des Rossignols ?",
+          "answer": "Réservez directement sur notre site ou contactez-nous par téléphone. Nos maisons thématiques sont très demandées."
         },
         "q9": {
-          "question": "Y a-t-il des événements viticoles spéciaux autour de {cityName} ?",
-          "answer": "La région autour de {cityName} accueille de nombreux événements viticoles tout au long de l'année : festivals du vin, expositions temporaires, marchés de producteurs locaux, et célébrations traditionnelles. Les vendanges, les fêtes du vin, et les Journées du Patrimoine sont des moments forts à ne pas manquer."
+          "question": "Quels événements au Zoo de Beauval ?",
+          "answer": "Le Zoo de Beauval organise des événements spéciaux toute l'année : nocturnes, animations saisonnières et expositions."
         },
         "q10": {
-          "question": "Quels sont les produits viticoles et locaux de {cityName} à rapporter ?",
-          "answer": "La région de {cityName} est réputée pour ses vins locaux, ses fromages de chèvre, ses confitures artisanales, et ses produits du terroir. Les vignobles proposent souvent leurs propres boutiques avec des produits de qualité. Nous recommandons également les produits des artisans locaux : vins, liqueurs, et spécialités viticoles."
+          "question": "Où faire du shopping près du Zoo de Beauval ?",
+          "answer": "La boutique du Zoo de Beauval propose des souvenirs uniques. {cityName} offre aussi de nombreuses boutiques locales."
         },
         "q11": {
-          "question": "Comment organiser un séjour romantique dans les vignobles autour de {cityName} ?",
-          "answer": "Pour un séjour romantique dans les vignobles autour de {cityName}, nous proposons des packages spéciaux incluant hébergement dans nos maisons les plus romantiques du Clos des Rossignols, dîners aux chandelles, visites privées des vignobles, et activités en couple comme des balades dans les vignes ou des dégustations de vins intimistes."
+          "question": "Quels endroits romantiques près du Zoo de Beauval ?",
+          "answer": "Les jardins du Zoo de Beauval et les bords de Loire offrent des moments romantiques inoubliables."
         },
         "q12": {
-          "question": "Peut-on faire des randonnées dans les vignobles autour de {cityName} ?",
-          "answer": "Les vignobles autour de {cityName} offrent de nombreux sentiers de randonnée, notamment des circuits entre les domaines viticoles et des chemins dans la campagne viticole. Les chemins sont bien balisés et accessibles à tous niveaux. Le Clos des Rossignols propose des cartes détaillées et des guides pour vous accompagner dans vos découvertes."
+          "question": "Quelles randonnées autour du Zoo de Beauval ?",
+          "answer": "De nombreux sentiers de randonnée partent du Zoo de Beauval et traversent les paysages magnifiques du Val de Loire."
         },
         "q13": {
-          "question": "Quels sont les horaires d'ouverture des vignobles autour de {cityName} ?",
-          "answer": "Les vignobles autour de {cityName} sont généralement ouverts toute l'année, avec des horaires variables selon les saisons. En été, ils sont souvent ouverts de 9h à 19h, en hiver de 9h à 17h. Nous recommandons de réserver à l'avance pour les dégustations et visites guidées."
+          "question": "Quelle est la faune au Zoo de Beauval ?",
+          "answer": "Le Zoo de Beauval abrite plus de 35 000 animaux de 800 espèces différentes du monde entier."
         },
         "q14": {
-          "question": "Comment se rendre à {cityName} et ses vignobles depuis Paris ?",
-          "answer": "Depuis Paris, vous pouvez rejoindre {cityName} et ses vignobles en train (gare de Saint-Aignan-sur-Cher à 15 minutes), en voiture (environ 2h30 par l'A10), ou en bus. Le Clos des Rossignols propose également un service de transfert depuis les gares et aéroports pour faciliter votre arrivée."
+          "question": "Quels sont les jardins au Zoo de Beauval ?",
+          "answer": "Le Zoo de Beauval dispose de magnifiques jardins paysagers et de serres tropicales à explorer."
         },
         "q15": {
-          "question": "Y a-t-il des activités pour les personnes à mobilité réduite dans les vignobles autour de {cityName} ?",
-          "answer": "Oui, la plupart des vignobles autour de {cityName} sont adaptés aux personnes à mobilité réduite. Les domaines viticoles proposent des visites spécialement conçues, et nos hébergements du Clos des Rossignols sont équipés pour accueillir tous les types de visiteurs. Nous pouvons organiser des visites personnalisées selon vos besoins."
+          "question": "Quels conseils pour visiter le Zoo de Beauval ?",
+          "answer": "Prévoyez des chaussures confortables, visitez tôt le matin pour éviter la foule et n'oubliez pas votre appareil photo."
         }
       },
       "finalCta2": {
-        "title": "Val de Loire France - {cityName}",
-        "subtitle": "Découvrez les meilleures activités touristiques dans la région de {cityName} et du Val de Loire. Réservez vos visites guidées, expériences authentiques et circuits touristiques exclusifs.",
-        "cta1": "Réserver maintenant",
-        "cta2": "Découvrir {cityName}"
+        "title": "Découvrez le Zoo de Beauval depuis {cityName}",
+        "subtitle": "Explorez l'un des plus beaux zoos d'Europe et nos hébergements thématiques uniques",
+        "cta1": "Réserver un hébergement",
+        "cta2": "Voir les activités"
       }
     },
     "chemery": {

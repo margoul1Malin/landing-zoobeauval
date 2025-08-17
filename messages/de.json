@@ -388,10 +388,12 @@
   "cities": {
     "dynamic": {
       "hero": {
-        "title": "Val de Loire Frankreich - {cityName}",
-        "subtitle": "Entdecken Sie {cityName} und seine Umgebung in der Nähe lokaler Weingüter und Schlösser. Genießen Sie unsere einzigartigen thematischen Unterkünfte, um die schönsten touristischen Sehenswürdigkeiten der Region zu erkunden.",
-        "cta1": "Jetzt buchen",
-        "cta2": "Region entdecken"
+        "title": "Le Clos des Rossignols in {cityName}",
+        "subtitle": "Entdecken Sie die Magie der Schlösser und die Schönheit der Loire-Tal-Landschaften in der Nähe des Beauval-Zoos"
+      },
+      "houses": {
+        "title": "Unsere Thematischen Häuser",
+        "subtitle": "Entdecken Sie unsere einzigartigen Unterkünfte, inspiriert von wilden Tieren des Beauval-Zoos"
       },
       "calendar": {
         "title": "Buchen Sie Ihren Aufenthalt jetzt!",
@@ -472,100 +474,101 @@
         "cta": "Entdecken Sie unsere Häuser"
       },
       "citySection": {
-        "defaultTitle": "Entdecken Sie diese einzigartige Stadt",
-        "defaultSubtitle": "Ein authentisches Erlebnis erwartet Sie"
+        "defaultTitle": "Entdecken Sie {cityName}",
+        "defaultSubtitle": "Eine Stadt reich an Geschichte und Charme im Loire-Tal",
+        "paragraphTitle": "{cityName}"
       },
       "finalCta1": {
-        "title": "Bereit für ein einzigartiges Erlebnis in der Nähe lokaler Weingüter und Schlösser - {cityName} ?",
-        "subtitle": "Buchen Sie Ihren Aufenthalt jetzt und profitieren Sie von unseren Sonderangeboten. Unsere einzigartigen Unterkünfte und exklusiven Aktivitäten erwarten Sie für unvergessliche Ferien.",
-        "cta1": "Meinen Aufenthalt buchen",
-        "cta2": "{cityName} entdecken"
+        "title": "Bereit, den Beauval-Zoo zu entdecken?",
+        "subtitle": "Buchen Sie Ihren Aufenthalt in unseren thematischen Häusern und genießen Sie diese einzigartige Erfahrung in der Nähe von {cityName}",
+        "cta1": "Jetzt buchen",
+        "cta2": "Unsere Häuser entdecken"
       },
 
       "faq": {
-        "title": "Häufig gestellte Fragen - Weingüter und {cityName}",
-        "subtitle": "Alles, was Sie wissen müssen, um Ihren Aufenthalt in {cityName} zu organisieren und seine lokalen Weingüter zu entdecken",
+        "title": "Häufig gestellte Fragen über {cityName}",
+        "subtitle": "Alles, was Sie wissen müssen, um diese Stadt und ihre Umgebung zu besuchen",
         "q1": {
-          "question": "Wann ist die beste Zeit, {cityName} und seine lokalen Weingüter zu besuchen?",
-          "answer": "Die beste Zeit für einen Besuch in {cityName} und seinen Weingütern erstreckt sich von April bis Oktober. Der Frühling bietet herrliche Landschaften mit blühenden Weinreben, der Sommer ermöglicht es Ihnen, Weindegustationen und weinbauliche Aktivitäten voll zu genießen, und der Herbst bietet die Weinlese und spektakuläre Farben. Der Winter, obwohl ruhiger, ermöglicht es Ihnen, Weinkeller zu entdecken und gereifte Weine in einer intimeren Atmosphäre zu genießen.",
+          "question": "Wann ist die beste Zeit, den Beauval-Zoo zu besuchen?",
+          "answer": "Frühling und Herbst sind ideal für den Besuch des Beauval-Zoos. Die Temperaturen sind angenehm und die Tiere sind aktiver.",
           "category": "location"
         },
         "q2": {
-          "question": "Wie lange dauert es, die Weingüter und Weinberge rund um {cityName} zu entdecken?",
-          "answer": "Für eine vollständige Entdeckung der Weingüter rund um {cityName} empfehlen wir mindestens 3 bis 4 Tage. Dies ermöglicht es Ihnen, lokale Weinberge zu besuchen, an Degustationen teilzunehmen, historische Keller zu entdecken und weinbauliche Aktivitäten zu genießen. Für eine intensivere Erfahrung mit Le Clos des Rossignols ist eine Woche ideal.",
+          "question": "Wie lange dauert es, den Beauval-Zoo zu besuchen?",
+          "answer": "Planen Sie einen ganzen Tag für den Besuch des Beauval-Zoos. Mit über 35.000 Tieren gibt es viel zu entdecken.",
           "category": "planning"
         },
         "q3": {
-          "question": "Wie kommt man zwischen den Weingütern und Weinbergen von {cityName} aus herum?",
-          "answer": "Das Auto ist das praktischste Verkehrsmittel, um die Weingüter rund um {cityName} zu erkunden. Die Weinberge sind gut durch Departementsstraßen verbunden. Organisierte Weintouren sind auch von {cityName} aus verfügbar, und Le Clos des Rossignols bietet personalisierte Transportdienste für unsere Kunden an.",
+          "question": "Wie kommt man vom Beauval-Zoo nach {cityName}?",
+          "answer": "Mit dem Auto ist der Beauval-Zoo nur wenige Minuten von {cityName} entfernt. Folgen Sie den Wegweisern vom Stadtzentrum.",
           "category": "transport"
         },
         "q4": {
-          "question": "Welche Restaurants und Weingüter werden in der Nähe von {cityName} empfohlen?",
-          "answer": "Die Region rund um {cityName} ist voll von ausgezeichneten Restaurants und Weingütern, die traditionelle französische Küche und lokale Spezialitäten anbieten. Wir empfehlen besonders die gastronomischen Restaurants der Weingüter, authentische Bauernhöfe und Einrichtungen, die lokale Weine anbieten. Le Clos des Rossignols kann Ihnen eine personalisierte Liste nach Ihren Vorlieben zur Verfügung stellen.",
+          "question": "Wo kann man im Beauval-Zoo essen?",
+          "answer": "Der Beauval-Zoo verfügt über mehrere Restaurants und Imbissstände. Sie können auch Ihr eigenes Picknick mitbringen.",
           "category": "food"
         },
         "q5": {
-          "question": "Gibt es Aktivitäten für Kinder in den Weingütern rund um {cityName}?",
-          "answer": "Absolut! Die Weingüter rund um {cityName} bieten viele Familienaktivitäten. Weinberge organisieren für Kinder angepasste Besuche, Traubenentdeckungsworkshops und lustige Aktivitäten. Viele Outdoor-Aktivitäten sind ebenfalls verfügbar: Wandern in Weinbergen, Radfahren zwischen Weingütern und Entdeckung der weinbaulichen Natur.",
+          "question": "Welche Familienaktivitäten gibt es im Beauval-Zoo?",
+          "answer": "Der Beauval-Zoo bietet Vogelshows, Tierfütterungen und Animationen für die ganze Familie.",
           "category": "family"
         },
         "q6": {
-          "question": "Kann man Weingüter und Keller rund um {cityName} im Winter besuchen?",
-          "answer": "Ja, die meisten Weingüter und Keller rund um {cityName} sind das ganze Jahr über geöffnet, mit angepassten Stunden im Winter. Diese Zeit bietet den Vorteil einer geringeren Besucherzahl und einer authentischeren Atmosphäre. Keller sind im Winter besonders angenehm für die Verkostung gereifter Weine und die Entdeckung der Geheimnisse des Weinbaus.",
+          "question": "Wie ist das Wetter im Beauval-Zoo?",
+          "answer": "Der Beauval-Zoo ist das ganze Jahr über geöffnet. Im Sommer besuchen Sie am besten früh morgens, um der Hitze zu entgehen und aktive Tiere zu sehen.",
           "category": "season"
         },
         "q7": {
-          "question": "Welche Unterkünfte sind in {cityName} in der Nähe der Weingüter verfügbar?",
-          "answer": "In {cityName} finden Sie unsere einzigartigen thematischen Häuser vom Clos des Rossignols, traditionelle Gästezimmer, ländliche Ferienhäuser und charmante Hotels. Unsere Unterkünfte befinden sich in außergewöhnlichen Umgebungen im Herzen der Weingüter und bieten modernen Komfort und weinbauliche Authentizität. Wir bieten auch Pakete mit Frühstück und Halbpension an.",
+          "question": "Wo kann man in der Nähe des Beauval-Zoos übernachten?",
+          "answer": "Le Clos des Rossignols bietet einzigartige thematische Unterkünfte nur wenige Minuten vom Beauval-Zoo entfernt.",
           "category": "accommodation"
         },
         "q8": {
-          "question": "Wie bucht man Weingut- und Weinbergbesuche rund um {cityName}?",
-          "answer": "Wir empfehlen, Ihre Weingutbesuche im Voraus zu buchen, besonders in der Hochsaison. Sie können direkt auf den offiziellen Weingutwebsites buchen oder uns kontaktieren, um private geführte Touren zu organisieren. Le Clos des Rossignols bietet auch Pakete an, die Unterkunft und Weintouren kombinieren.",
+          "question": "Wie bucht man eine Unterkunft in Le Clos des Rossignols?",
+          "answer": "Buchen Sie direkt auf unserer Website oder kontaktieren Sie uns telefonisch. Unsere thematischen Häuser sind sehr gefragt.",
           "category": "booking"
         },
         "q9": {
-          "question": "Gibt es besondere Weinevents rund um {cityName}?",
-          "answer": "Die Region rund um {cityName} veranstaltet das ganze Jahr über viele Weinevents: Weinfeste, temporäre Ausstellungen, lokale Produzentenmärkte und traditionelle Feiern. Weinlese, Weinfeste und Kulturerbetage sind Höhepunkte, die man nicht verpassen sollte.",
+          "question": "Welche Veranstaltungen gibt es im Beauval-Zoo?",
+          "answer": "Der Beauval-Zoo organisiert das ganze Jahr über besondere Veranstaltungen: Nachtbesuche, saisonale Animationen und Ausstellungen.",
           "category": "events"
         },
         "q10": {
-          "question": "Welche Wein- und lokale Produkte aus {cityName} sollte man mitbringen?",
-          "answer": "Die Region von {cityName} ist bekannt für ihre lokalen Weine, Ziegenkäse, handgemachte Marmeladen und lokale Produkte. Weingüter haben oft ihre eigenen Geschäfte mit Qualitätsprodukten. Wir empfehlen auch Produkte von lokalen Handwerkern: Weine, Liköre und Weinspezialitäten.",
+          "question": "Wo kann man in der Nähe des Beauval-Zoos einkaufen?",
+          "answer": "Der Shop des Beauval-Zoos bietet einzigartige Souvenirs. {cityName} hat auch viele lokale Boutiquen.",
           "category": "shopping"
         },
         "q11": {
-          "question": "Wie organisiert man einen romantischen Aufenthalt in den Weingütern rund um {cityName}?",
-          "answer": "Für einen romantischen Aufenthalt in den Weingütern rund um {cityName} bieten wir spezielle Pakete an, die Unterkunft in unseren romantischsten Häusern im Clos des Rossignols, Kerzenlicht-Dinner, private Weingutbesuche und Paaraktivitäten wie Spaziergänge in den Weinbergen oder intime Weindegustationen beinhalten.",
+          "question": "Welche romantischen Orte gibt es in der Nähe des Beauval-Zoos?",
+          "answer": "Die Gärten des Beauval-Zoos und die Loire-Ufer bieten unvergessliche romantische Momente.",
           "category": "romance"
         },
         "q12": {
-          "question": "Kann man in den Weingütern rund um {cityName} wandern?",
-          "answer": "Die Weingüter rund um {cityName} bieten viele Wanderwege, einschließlich Rundwege zwischen Weinbergen und Wegen in der weinbaulichen Landschaft. Die Wege sind gut markiert und für alle Niveaus zugänglich. Le Clos des Rossignols stellt detaillierte Karten und Führer zur Verfügung, um Sie bei Ihren Entdeckungen zu begleiten.",
+          "question": "Welche Wanderungen gibt es um den Beauval-Zoo?",
+          "answer": "Viele Wanderwege starten vom Beauval-Zoo und durchqueren die wunderschönen Landschaften des Loire-Tals.",
           "category": "outdoor"
         },
         "q13": {
-          "question": "Was sind die Öffnungszeiten der Weingüter rund um {cityName}?",
-          "answer": "Weingüter rund um {cityName} sind in der Regel das ganze Jahr über geöffnet, mit variablen Stunden je nach Saison. Im Sommer sind sie oft von 9 bis 19 Uhr geöffnet, im Winter von 9 bis 17 Uhr. Wir empfehlen, im Voraus für Degustationen und geführte Touren zu buchen.",
+          "question": "Welche Tierwelt gibt es im Beauval-Zoo?",
+          "answer": "Der Beauval-Zoo beherbergt über 35.000 Tiere aus 800 verschiedenen Arten weltweit.",
           "category": "nature"
         },
         "q14": {
-          "question": "Wie kommt man von Paris nach {cityName} und seinen Weingütern?",
-          "answer": "Von Paris aus können Sie {cityName} und seine Weingüter mit dem Zug erreichen (Bahnhof Saint-Aignan-sur-Cher 15 Minuten entfernt), mit dem Auto (etwa 2h30 über die A10) oder mit dem Bus. Le Clos des Rossignols bietet auch einen Transfer-Service von Bahnhöfen und Flughäfen an, um Ihre Ankunft zu erleichtern.",
+          "question": "Welche Gärten gibt es im Beauval-Zoo?",
+          "answer": "Der Beauval-Zoo verfügt über wunderschöne Landschaftsgärten und tropische Gewächshäuser zum Erkunden.",
           "category": "culture"
         },
         "q15": {
-          "question": "Gibt es Aktivitäten für Menschen mit eingeschränkter Mobilität in den Weingütern rund um {cityName}?",
-          "answer": "Ja, die meisten Weingüter rund um {cityName} sind für Menschen mit eingeschränkter Mobilität angepasst. Weinberge bieten speziell konzipierte Besuche an, und unsere Unterkünfte im Clos des Rossignols sind ausgestattet, um alle Arten von Besuchern zu empfangen. Wir können personalisierte Besuche nach Ihren Bedürfnissen organisieren.",
+          "question": "Welche Tipps gibt es für den Besuch des Beauval-Zoos?",
+          "answer": "Tragen Sie bequeme Schuhe, besuchen Sie früh morgens, um Menschenmassen zu vermeiden, und vergessen Sie nicht Ihre Kamera.",
           "category": "tips"
         }
       },
       "finalCta2": {
-        "title": "Val de Loire Frankreich - {cityName}",
-        "subtitle": "Entdecken Sie die besten touristischen Aktivitäten in der {cityName} Region und im Val de Loire. Buchen Sie Ihre geführten Touren, authentischen Erlebnisse und exklusiven touristischen Rundgänge.",
-        "cta1": "Jetzt buchen",
-        "cta2": "{cityName} entdecken"
+        "title": "Entdecken Sie den Beauval-Zoo von {cityName} aus",
+        "subtitle": "Erkunden Sie einen der schönsten Zoos Europas und unsere einzigartigen thematischen Unterkünfte",
+        "cta1": "Unterkunft buchen",
+        "cta2": "Aktivitäten sehen"
       }
     }
   },

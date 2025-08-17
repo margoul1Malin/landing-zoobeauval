@@ -16,8 +16,8 @@
     }
   },
   "hero": {
-    "title": "Discover Unique Experiences in Our Thematic Houses",
-    "subtitle": "Immerse yourself in a world of adventures with our 9 houses inspired by wild animals. Each stay is an immersive experience with tailor-made activities.",
+    "title": "Le Clos des Rossignols at {cityName}",
+    "subtitle": "Discover the magic of castles and the beauty of Loire Valley landscapes near Beauval Zoo",
     "mainTitle": "Loire Valley",
     "subTitle": "Le Clos des Rossignols",
     "description": "Discover immersive experiences in our houses inspired by wild animals. A unique adventure in the heart of the Loire Valley.",
@@ -382,10 +382,8 @@
   "cities": {
     "dynamic": {
       "hero": {
-        "title": "Val de Loire France - {cityName}",
-        "subtitle": "Discover {cityName} and its surroundings near local vineyards and castles. Enjoy our unique thematic accommodations to explore the most beautiful tourist sites in the region.",
-        "cta1": "Book now",
-        "cta2": "Discover the region"
+        "title": "Le Clos des Rossignols at {cityName}",
+        "subtitle": "Discover the magic of castles and the beauty of Loire Valley landscapes near Beauval Zoo"
       },
       "calendar": {
         "title": "Book your stay now!",
@@ -458,105 +456,102 @@
         "subtitle": "Discover what our visitors say about their experience in our thematic houses near local vineyards and castles."
       },
       "houses": {
-        "title": "Discover our Thematic Houses",
-        "subtitle": "Each house has its own identity and unique atmosphere, inspired by wild animals. An immersive experience near local vineyards and castles.",
-        "brand": "Le Clos des Rossignols",
-        "description": "Discover our houses near local vineyards and castles",
-        "tagline": "Le Clos des Rossignols - Local Vineyards and Castles",
-        "cta": "Discover our houses"
+        "title": "Our Thematic Houses",
+        "subtitle": "Discover our unique accommodations inspired by wild animals from Beauval Zoo"
       },
       "citySection": {
-        "defaultTitle": "Discover this unique city",
-        "defaultSubtitle": "An authentic experience awaits you"
+        "defaultTitle": "Discover {cityName}",
+        "defaultSubtitle": "A city rich in history and charm in the Loire Valley",
+        "paragraphTitle": "{cityName}"
       },
       "finalCta1": {
-        "title": "Ready to live a unique experience near local vineyards and castles - {cityName} ?",
-        "subtitle": "Book your stay now and benefit from our special offers. Our unique accommodations and exclusive activities await you for unforgettable holidays.",
-        "cta1": "Book my stay",
-        "cta2": "Discover {cityName}"
+        "title": "Ready to discover Beauval Zoo?",
+        "subtitle": "Book your stay in our thematic houses and enjoy this unique experience near {cityName}",
+        "cta1": "Book now",
+        "cta2": "Discover our houses"
       },
       "finalCta2": {
-        "title": "Val de Loire France - {cityName}",
-        "subtitle": "Discover the best tourist activities in the {cityName} region and the Val de Loire. Book your guided tours, authentic experiences and exclusive tourist circuits.",
-        "cta1": "Book now",
-        "cta2": "Discover {cityName}"
+        "title": "Discover Beauval Zoo from {cityName}",
+        "subtitle": "Explore one of Europe's most beautiful zoos and our unique thematic accommodations",
+        "cta1": "Book accommodation",
+        "cta2": "See activities"
       },
       "faq": {
-        "title": "Frequently Asked Questions - Vineyards and {cityName}",
-        "subtitle": "Everything you need to know to organize your stay in {cityName} and discover its local vineyards",
+        "title": "Frequently Asked Questions about {cityName}",
+        "subtitle": "Everything you need to know to visit this city and its surroundings",
         "q1": {
-          "question": "What is the best time to visit {cityName} and discover its local vineyards?",
-          "answer": "The best time to visit {cityName} and its vineyards extends from April to October. Spring offers magnificent landscapes with vineyards in bloom, summer allows you to fully enjoy wine tastings and viticultural activities, and autumn offers grape harvests and spectacular colors. Winter, although quieter, allows you to discover wine cellars and taste aged wines in an intimate atmosphere.",
+          "question": "What are the best times to visit Beauval Zoo?",
+          "answer": "Spring and autumn are ideal for visiting Beauval Zoo. Temperatures are pleasant and animals are more active.",
           "category": "location"
         },
         "q2": {
-          "question": "How long does it take to discover the vineyards and wine estates around {cityName}?",
-          "answer": "For a complete discovery of the vineyards around {cityName}, we recommend at least 3 to 4 days. This will allow you to visit local wine estates, participate in tastings, discover historic cellars, and enjoy viticultural activities. For a more in-depth experience with Le Clos des Rossignols, a week is ideal.",
+          "question": "How long does it take to visit Beauval Zoo?",
+          "answer": "Plan a full day to visit Beauval Zoo. With over 35,000 animals, there's a lot to discover.",
           "category": "planning"
         },
         "q3": {
-          "question": "How to get around between vineyards and wine estates from {cityName}?",
-          "answer": "The car is the most practical means of transport to explore the vineyards around {cityName}. Wine estates are well connected by departmental roads. Organized wine tours are also available from {cityName}, and Le Clos des Rossignols offers personalized transport services for our clients.",
+          "question": "How to get to Beauval Zoo from {cityName}?",
+          "answer": "By car, Beauval Zoo is just a few minutes from {cityName}. Follow the directional signs from the city center.",
           "category": "transport"
         },
         "q4": {
-          "question": "What are the recommended restaurants and wine estates near {cityName}?",
-          "answer": "The region around {cityName} is full of excellent restaurants and wine estates offering traditional French cuisine and local specialties. We particularly recommend the gastronomic restaurants of vineyards, authentic farm inns, and establishments offering local wines. Le Clos des Rossignols can provide you with a personalized list according to your preferences.",
+          "question": "Where to eat at Beauval Zoo?",
+          "answer": "Beauval Zoo has several restaurants and food outlets. You can also bring your own picnic.",
           "category": "food"
         },
         "q5": {
-          "question": "Are there activities for children in the vineyards around {cityName}?",
-          "answer": "Absolutely! The vineyards around {cityName} offer many family activities. Wine estates organize visits adapted for children, grape discovery workshops, and fun activities. Many outdoor activities are also available: hiking in vineyards, cycling between estates, and discovering viticultural nature.",
+          "question": "What family activities to do at Beauval Zoo?",
+          "answer": "Beauval Zoo offers bird shows, animal feedings and animations for the whole family.",
           "category": "family"
         },
         "q6": {
-          "question": "Can you visit vineyards and cellars around {cityName} in winter?",
-          "answer": "Yes, most vineyards and cellars around {cityName} are open year-round, with adapted hours in winter. This period offers the advantage of lower attendance and a more authentic atmosphere. Cellars are particularly pleasant in winter for tasting aged wines and discovering the secrets of winemaking.",
+          "question": "What's the weather like at Beauval Zoo?",
+          "answer": "Beauval Zoo is open year-round. In summer, visit early in the morning to avoid the heat and see active animals.",
           "category": "season"
         },
         "q7": {
-          "question": "What accommodations are available in {cityName} near the vineyards?",
-          "answer": "In {cityName}, you will find our unique thematic houses from Le Clos des Rossignols, traditional guest rooms, rural cottages, and charming hotels. Our accommodations are located in exceptional settings in the heart of vineyards, offering modern comfort and viticultural authenticity. We also offer packages with breakfast and half-board.",
+          "question": "Where to stay near Beauval Zoo?",
+          "answer": "Le Clos des Rossignols offers unique thematic accommodations just a few minutes from Beauval Zoo.",
           "category": "accommodation"
         },
         "q8": {
-          "question": "How to book vineyard and wine estate visits around {cityName}?",
-          "answer": "We recommend booking your vineyard visits in advance, especially during high season. You can book directly on the official wine estate websites, or contact us to organize private guided tours. Le Clos des Rossignols also offers packages combining accommodation and wine tours.",
+          "question": "How to book accommodation at Le Clos des Rossignols?",
+          "answer": "Book directly on our website or contact us by phone. Our thematic houses are in high demand.",
           "category": "booking"
         },
         "q9": {
-          "question": "Are there special wine events around {cityName}?",
-          "answer": "The region around {cityName} hosts many wine events throughout the year: wine festivals, temporary exhibitions, local producer markets, and traditional celebrations. Grape harvests, wine festivals, and Heritage Days are highlights not to be missed.",
+          "question": "What events at Beauval Zoo?",
+          "answer": "Beauval Zoo organizes special events throughout the year: night visits, seasonal animations and exhibitions.",
           "category": "events"
         },
         "q10": {
-          "question": "What wine and local products from {cityName} to bring back?",
-          "answer": "The region of {cityName} is renowned for its local wines, goat cheeses, artisanal jams, and local products. Vineyards often have their own shops with quality products. We also recommend products from local artisans: wines, liqueurs, and wine specialties.",
+          "question": "Where to shop near Beauval Zoo?",
+          "answer": "Beauval Zoo's shop offers unique souvenirs. {cityName} also has many local boutiques.",
           "category": "shopping"
         },
         "q11": {
-          "question": "How to organize a romantic stay in the vineyards around {cityName}?",
-          "answer": "For a romantic stay in the vineyards around {cityName}, we offer special packages including accommodation in our most romantic houses at Le Clos des Rossignols, candlelit dinners, private vineyard visits, and couple activities such as walks in the vineyards or intimate wine tastings.",
+          "question": "What romantic places near Beauval Zoo?",
+          "answer": "Beauval Zoo's gardens and the Loire banks offer unforgettable romantic moments.",
           "category": "romance"
         },
         "q12": {
-          "question": "Can you go hiking in the vineyards around {cityName}?",
-          "answer": "The vineyards around {cityName} offer many hiking trails, including circuits between wine estates and paths in the viticultural countryside. The paths are well marked and accessible to all levels. Le Clos des Rossignols provides detailed maps and guides to accompany you in your discoveries.",
+          "question": "What hiking around Beauval Zoo?",
+          "answer": "Many hiking trails start from Beauval Zoo and cross the magnificent landscapes of the Loire Valley.",
           "category": "outdoor"
         },
         "q13": {
-          "question": "What are the opening hours of vineyards around {cityName}?",
-          "answer": "Vineyards around {cityName} are generally open year-round, with variable hours depending on the season. In summer, they are often open from 9am to 7pm, in winter from 9am to 5pm. We recommend booking in advance for tastings and guided tours.",
+          "question": "What wildlife at Beauval Zoo?",
+          "answer": "Beauval Zoo houses over 35,000 animals from 800 different species worldwide.",
           "category": "nature"
         },
         "q14": {
-          "question": "How to get to {cityName} and its vineyards from Paris?",
-          "answer": "From Paris, you can reach {cityName} and its vineyards by train (Saint-Aignan-sur-Cher station 15 minutes away), by car (about 2h30 via A10), or by bus. Le Clos des Rossignols also offers a transfer service from stations and airports to facilitate your arrival.",
+          "question": "What gardens at Beauval Zoo?",
+          "answer": "Beauval Zoo has magnificent landscaped gardens and tropical greenhouses to explore.",
           "category": "culture"
         },
         "q15": {
-          "question": "Are there activities for people with reduced mobility in the vineyards around {cityName}?",
-          "answer": "Yes, most vineyards around {cityName} are adapted for people with reduced mobility. Wine estates offer specially designed visits, and our accommodations at Le Clos des Rossignols are equipped to welcome all types of visitors. We can organize personalized visits according to your needs.",
+          "question": "What tips for visiting Beauval Zoo?",
+          "answer": "Wear comfortable shoes, visit early in the morning to avoid crowds and don't forget your camera.",
           "category": "tips"
         }
       }

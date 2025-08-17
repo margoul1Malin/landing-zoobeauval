@@ -16,8 +16,8 @@
     }
   },
   "hero": {
-    "title": "Descubre Experiencias Únicas en Nuestras Casas Temáticas",
-    "subtitle": "Sumérgete en un mundo de aventuras con nuestras 9 casas inspiradas en animales salvajes. Cada estancia es una experiencia inmersiva con actividades a medida.",
+    "title": "Le Clos des Rossignols en {cityName}",
+    "subtitle": "Descubre la magia de los castillos y la belleza de los paisajes del Valle del Loira cerca del Zoo de Beauval",
     "mainTitle": "Valle del Loira",
     "subTitle": "Le Clos des Rossignols",
     "description": "Descubre experiencias inmersivas en nuestras casas inspiradas en animales salvajes. Una aventura única en el corazón del Valle del Loira.",
@@ -382,10 +382,8 @@
   "cities": {
     "dynamic": {
       "hero": {
-        "title": "Val de Loire Francia - {cityName}",
-        "subtitle": "Descubre {cityName} y sus alrededores cerca de viñedos y castillos locales. Disfruta de nuestros alojamientos temáticos únicos para explorar los sitios turísticos más hermosos de la región.",
-        "cta1": "Reservar ahora",
-        "cta2": "Descubrir la región"
+        "title": "Le Clos des Rossignols en {cityName}",
+        "subtitle": "Descubre la magia de los castillos y la belleza de los paisajes del Valle del Loira cerca del Zoo de Beauval"
       },
       "calendar": {
         "title": "¡Reserva tu estancia ahora!",
@@ -458,16 +456,13 @@
         "subtitle": "Descubre lo que dicen nuestros visitantes sobre su experiencia en nuestras casas temáticas cerca de viñedos y castillos locales."
       },
       "houses": {
-        "title": "Descubre nuestras Casas Temáticas",
-        "subtitle": "Cada casa tiene su propia identidad y atmósfera única, inspirada en animales salvajes. Una experiencia inmersiva cerca de viñedos y castillos locales.",
-        "brand": "Le Clos des Rossignols",
-        "description": "Descubre nuestras casas cerca de viñedos y castillos locales",
-        "tagline": "Le Clos des Rossignols - Viñedos y Castillos Locales",
-        "cta": "Descubre nuestras casas"
+        "title": "Nuestras Casas Temáticas",
+        "subtitle": "Descubre nuestros alojamientos únicos inspirados en animales salvajes del Zoo de Beauval"
       },
       "citySection": {
-        "defaultTitle": "Descubre esta ciudad única",
-        "defaultSubtitle": "Una experiencia auténtica te espera"
+        "defaultTitle": "Descubre {cityName}",
+        "defaultSubtitle": "Una ciudad rica en historia y encanto en el Valle del Loira",
+        "paragraphTitle": "{cityName}"
       },
       "finalCta1": {
         "title": "¿Listo para vivir una experiencia única cerca de viñedos y castillos locales - {cityName} ?",
@@ -543,9 +538,9 @@
       },
       "finalCta2": {
         "title": "Val de Loire Francia - {cityName}",
-        "subtitle": "Descubre las mejores actividades turísticas en la región de {cityName} y el Val de Loire. Reserva tus visitas guiadas, experiencias auténticas y circuitos turísticos exclusivos.",
+        "subtitle": "Descubre las mejores actividades turísticas en la región de {cityName} y el Val de Loire. Reserva tus visitas guiadas, experiencias auténticas y circuitos turísticos exclusivos. Disfruta de tu estancia para visitar el Zoo de Beauval, uno de los zoos más hermosos de Europa.",
         "cta1": "Reservar ahora",
-        "cta2": "Descubrir {cityName}"
+        "cta2": "Descubrir {cityName} y el Zoo de Beauval"
       }
     }
   },
