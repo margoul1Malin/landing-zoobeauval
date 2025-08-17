@@ -34,22 +34,11 @@ export function ResponsiveHeader() {
             </div>
             <div className="hidden sm:block">
               <h1 className="text-lg font-bold text-custom-color-2 group-hover:text-white transition-colors duration-300">
-                Le Clos des Rossignols Proche du ZooParc de Beauval
+                Le Clos des Rossignols - ZooParc de Beauval
               </h1>
             </div>
           </Link>
 
-          {/* Section centre - Image banner */}
-          <div className="flex-1 flex justify-center max-w-md mx-4">
-            <div className="relative w-24 h-16 overflow-hidden">
-              <Image 
-                src="/animals/banner.png" 
-                alt="Le Clos des Rossignols" 
-                fill
-                className="object-cover"
-              />
-            </div>
-          </div>
 
           {/* Section droite - Contacts et actions */}
           <div className="flex items-center space-x-3">
