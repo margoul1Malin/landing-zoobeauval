@@ -112,17 +112,7 @@ export function ResponsiveHeader() {
           <div className="lg:hidden mt-4 pb-4 border-t border-white/10">
             <div className="flex flex-col space-y-4 pt-4">
               {/* Image banner mobile */}
-              <div className="flex justify-center">
-                <div className="relative w-32 h-20 overflow-hidden">
-                  <Image 
-                    src="/animals/banner.png" 
-                    alt="Le Clos des Rossignols" 
-                    fill
-                    className="object-cover"
-                  />
-                </div>
-              </div>
-
+             
               {/* Boutons de contact mobile */}
               <div className="flex justify-center space-x-4">
                 <Link 
