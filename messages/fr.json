@@ -1,0 +1,886 @@
+{
+  "header": {
+    "title": "Le Clos des Rossignols",
+    "subtitle": "Hébergements thématiques uniques",
+    "reserve": "Réserver",
+    "contact": "Contact",
+    "logoAlt": "Le Clos des Rossignols",
+    "googleTooltip": "Voir sur Google",
+    "phoneTooltip": "Appeler",
+    "emailTooltip": "Envoyer un email",
+    "phone": "06 11 03 46 52",
+    "email": "mcherve.37@gmail.com",
+    "mobile": {
+      "reserve": "Réserver",
+      "viewSite": "Voir le site"
+    }
+  },
+  "hero": {
+    "title": "Découvrez des expériences uniques dans nos maisons thématiques",
+    "subtitle": "Plongez dans un monde d'aventures avec nos 9 maisons inspirées des animaux sauvages. Chaque séjour est une expérience immersive avec des activités sur mesure.",
+    "mainTitle": "Val de Loire",
+    "subTitle": "Le Clos des Rossignols",
+    "description": "Découvrez des expériences immersives dans nos maisons inspirées des animaux sauvages. Une aventure unique au cœur de la Vallée de la Loire.",
+    "reserve": "Réserver maintenant",
+    "discover": "Découvrir nos maisons",
+    "loading": "Chargement de la vidéo...",
+    "error": "Vidéo non disponible",
+    "errorSubtitle": "L'image de fond sera affichée à la place",
+    "heroTitle": "Découvrez le Clos des Rossignols",
+    "heroSubtitle": "Votre destination de luxe dans le Val de Loire. Trouvez votre ville et découvrez nos hébergements d'exception.",
+    "stats": {
+      "houses": "Maisons Thématiques",
+      "castles": "Châteaux à Proximité",
+      "experiences": "Expériences Uniques",
+      "housesCount": "9",
+      "activitiesCount": "50+",
+      "rating": "4.9★",
+      "housesLabel": "Maisons thématiques",
+      "activitiesLabel": "Activités disponibles",
+      "ratingLabel": "Note moyenne"
+    }
+  },
+  "cta": {
+    "title": "Prêt à vivre l'aventure ?",
+    "subtitle": "Découvrez nos 9 maisons thématiques uniques et réservez votre séjour pour une expérience immersive inoubliable dans la Vallée de la Loire.",
+    "reserve": "Réserver maintenant",
+    "discover": "Découvrir nos maisons"
+  },
+  "houses": {
+    "title": "Nos Maisons Thématiques",
+    "subtitle": "Chaque maison vous transporte dans un univers unique, inspiré des animaux sauvages",
+    "activities": "Activités :",
+    "book": "Réserver"
+  },
+  "maisons": {
+    "elephants": {
+      "name": "Maison des Éléphants",
+      "description": "Une demeure majestueuse inspirée des savanes africaines",
+      "capacity": "4 personnes",
+      "price": "à partir de 120€/nuit",
+      "activities": ["Safari photo", "Dégustation de thé", "Jardin exotique"]
+    },
+    "giraffes": {
+      "name": "Maison des Girafes",
+      "description": "Élégance et hauteur dans un cadre unique",
+      "capacity": "4 personnes",
+      "price": "à partir de 130€/nuit",
+      "activities": ["Observation des étoiles", "Pique-nique en hauteur", "Balade nature"]
+    },
+    "koalas": {
+      "name": "Maison des Koalas",
+      "description": "Cocooning et douceur australienne",
+      "capacity": "6 personnes",
+      "price": "à partir de 140€/nuit",
+      "activities": ["Yoga matinal", "Détente spa", "Jardin zen"]
+    },
+    "lions": {
+      "name": "Maison des Lions",
+      "description": "Force et noblesse dans un cadre royal",
+      "capacity": "4 personnes",
+      "price": "à partir de 135€/nuit",
+      "activities": ["Chasse au trésor", "Jeux royaux", "Barbecue safari"]
+    },
+    "otaries": {
+      "name": "Maison des Otaries",
+      "description": "Joueur et dynamique comme les océans",
+      "capacity": "6 personnes",
+      "price": "à partir de 125€/nuit",
+      "activities": ["Jeux aquatiques", "Pêche", "Balade côtière"]
+    },
+    "ours": {
+      "name": "Maison des Ours",
+      "description": "Force tranquille et confort nordique",
+      "capacity": "4 personnes",
+      "price": "à partir de 130€/nuit",
+      "activities": ["Randonnée forestière", "Cuisine rustique", "Feu de camp"]
+    },
+    "pandas": {
+      "name": "Maison des Pandas",
+      "description": "Paix et sérénité dans un havre de verdure",
+      "capacity": "4 personnes",
+      "price": "à partir de 140€/nuit",
+      "activities": ["Méditation bambou", "Thé cérémonie", "Jardin japonais"]
+    },
+    "perroquets": {
+      "name": "Maison des Perroquets",
+      "description": "Couleurs vives et ambiance tropicale",
+      "capacity": "4 personnes",
+      "price": "à partir de 120€/nuit",
+      "activities": ["Cocktails tropicaux", "Danse latine", "Jardin exotique"]
+    },
+    "singes": {
+      "name": "Maison des Singes",
+      "description": "Malicieux et aventureux dans la jungle",
+      "capacity": "6 personnes",
+      "price": "à partir de 125€/nuit",
+      "activities": ["Parcours aventure", "Jeux d'équipe", "Exploration jungle"]
+    }
+  },
+  "testimonials": {
+    "title": "Ce que disent nos clients",
+    "subtitle": "Découvrez les expériences uniques vécues par nos visiteurs dans nos maisons thématiques"
+  },
+  "cta2": {
+    "title": "Prêt pour l'aventure ?",
+    "subtitle": "Réservez dès maintenant et bénéficiez de nos offres spéciales. Nos maisons se remplissent vite !",
+    "reserve": "Réserver maintenant",
+    "contact": "Nous contacter"
+  },
+  "activities": {
+    "title": "Activités Touristiques & Expériences Uniques",
+    "subtitle": "Découvrez des expériences authentiques et des activités touristiques exclusives dans la Vallée de la Loire, loin des circuits touristiques classiques.",
+    "mainTitle": "Découvrez la Vallée de la Loire",
+    "discoverLink": "Découvrez la Vallée de la Loire",
+    "castles": {
+      "title": "Visites de Châteaux Privés",
+      "description": "Accédez à des châteaux privés fermés au public et découvrez l'histoire de la Renaissance française de manière exclusive.",
+      "cta": "Réserver un logement pour une visite privée →"
+    },
+    "wine": {
+      "title": "Dégustations de Vins Locaux",
+      "description": "Découvrez les meilleurs vins de la région avec des vignerons passionnés dans des caves historiques authentiques.",
+      "cta": "Réserver un logement pour une dégustation →"
+    },
+    "bike": {
+      "title": "Balades à Vélo Guidées",
+      "description": "Explorez les plus beaux villages de la Loire à vélo avec nos guides locaux qui partagent leurs secrets et anecdotes.",
+      "cta": "Réserver un logement pour une balade →"
+    }
+  },
+  "region": {
+    "title": "Découvrez la Région",
+    "subtitle": "Profitez de votre séjour pour visiter les plus beaux sites touristiques de la Vallée de la Loire, tous accessibles depuis nos hébergements.",
+    "why": {
+      "title": "Pourquoi choisir nos hébergements ?",
+      "location": {
+        "title": "Emplacement Idéal",
+        "description": "Situé à proximité des plus beaux sites touristiques de la région"
+      },
+      "comfort": {
+        "title": "Confort Garanti",
+        "description": "Hébergements thématiques uniques pour des séjours mémorables"
+      },
+      "experience": {
+        "title": "Expérience Locale",
+        "description": "Découvrez la région comme un local avec nos conseils personnalisés"
+      }
+    }
+  },
+  "attractions": {
+    "beauval": {
+      "name": "Zoo de Beauval",
+      "type": "Zoo & Parc animalier",
+      "description": "Le plus grand zoo de France avec plus de 35 000 animaux",
+      "rating": "4.8/5",
+      "distance": "15 min",
+      "cta": "Réserver"
+    },
+    "chenonceau": {
+      "name": "Château de Chenonceau",
+      "type": "Château",
+      "description": "Le château des Dames, joyau de la Renaissance",
+      "rating": "4.7/5",
+      "distance": "25 min",
+      "cta": "Réserver"
+    },
+    "chambord": {
+      "name": "Château de Chambord",
+      "type": "Château",
+      "description": "Le plus grand château de la Loire, chef-d'œuvre de François Ier",
+      "rating": "4.6/5",
+      "distance": "45 min",
+      "cta": "Réserver"
+    },
+    "cheverny": {
+      "name": "Château de Cheverny",
+      "type": "Château",
+      "description": "Château privé habité, inspirateur du château de Moulinsart",
+      "rating": "4.5/5",
+      "distance": "20 min",
+      "cta": "Réserver"
+    }
+  },
+  "experiences": {
+    "title": "Expériences Locales & Immersives",
+    "subtitle": "Vivez la vraie vie de la Vallée de la Loire avec des expériences authentiques et des rencontres inoubliables avec les habitants.",
+    "cooking": {
+      "title": "Cours de Cuisine Traditionnelle",
+      "description": "Apprenez à cuisiner les spécialités locales avec des chefs passionnés dans des cuisines authentiques de châteaux."
+    },
+    "craft": {
+      "title": "Ateliers d'Artisanat",
+      "description": "Découvrez les savoir-faire traditionnels : poterie, vannerie, et autres métiers d'art de la région."
+    },
+    "gardens": {
+      "title": "Découverte des Jardins Secrets",
+      "description": "Visitez des jardins privés exceptionnels et apprenez les secrets de l'art des jardins à la française."
+    },
+    "why": {
+      "title": "Pourquoi Choisir Nos Expériences ?",
+      "exclusive": "Accès exclusif à des lieux fermés au public",
+      "guides": "Guides locaux passionnés et experts",
+      "groups": "Groupes limités pour une expérience personnalisée",
+      "authentic": "Activités authentiques, loin du tourisme de masse",
+      "flexible": "Réservation flexible et annulation gratuite",
+      "cta": "Découvrir Toutes Nos Expériences"
+    }
+  },
+  "textcarousel": {
+    "valdeloire": "Val de Loire",
+    "closdesrossignols": "Le Clos des Rossignols",
+    "hebergements": "Hébergements thématiques uniques",
+    "experience": "Expérience immersive en Vallée de la Loire"
+  },
+  "final": {
+    "title": "Activités Touristiques & Expériences Uniques",
+    "subtitle": "Réservez vos activités touristiques, visites guidées et expériences authentiques dans la Vallée de la Loire. Découvrez des circuits touristiques exclusifs et des activités culturelles uniques.",
+    "categories": {
+      "comfort": "Logement Confort",
+      "castles": "Châteaux Privés",
+      "tastings": "Dégustations",
+      "tours": "Balades Guidées"
+    },
+    "reserve": "Réserver Mes Activités",
+    "circuits": "Voir Tous les Circuits"
+  },
+  "seo": {
+    "getyourguide": {
+      "title": "Val de Loire France - Activités Touristiques & Expériences Uniques",
+      "subtitle": "Découvrez les meilleures activités touristiques dans la région de Versailles et de la Vallée de la Loire. Réservez vos visites guidées, expériences authentiques et circuits touristiques exclusifs.",
+      "castles": {
+        "title": "Châteaux de la Loire",
+        "description": "Visitez les plus beaux châteaux de la Loire avec des guides experts. Découvrez l'histoire de la Renaissance française de manière exclusive.",
+        "cta": "Réserver une visite guidée →"
+      },
+      "wine": {
+        "title": "Dégustations de Vins",
+        "description": "Découvrez les meilleurs vins de la région avec des vignerons passionnés. Expériences authentiques dans des caves historiques.",
+        "cta": "Réserver une dégustation →"
+      },
+      "bike": {
+        "title": "Balades Guidées",
+        "description": "Explorez la région à vélo avec nos guides locaux. Découvrez les secrets et anecdotes de la Vallée de la Loire.",
+        "cta": "Réserver une balade →"
+      }
+    },
+    "hotels": {
+      "title": "Hôtels Chémery - Hébergements de Qualité dans la Vallée de la Loire",
+      "subtitle": "Découvrez nos hébergements thématiques uniques à Chémery, idéalement situés pour visiter le Zoo de Beauval et les châteaux de la Loire.",
+      "location": {
+        "title": "Emplacement Idéal",
+        "description": "Nos hébergements à Chémery sont parfaitement situés pour accéder aux principales attractions touristiques de la région."
+      },
+      "comfort": {
+        "title": "Confort Garanti",
+        "description": "Hébergements thématiques uniques avec tout le confort moderne pour des séjours mémorables."
+      },
+      "beauval": {
+        "title": "Zoo de Beauval",
+        "description": "À seulement 15 minutes du Zoo de Beauval, le plus grand zoo de France avec plus de 35 000 animaux."
+      },
+      "castles": {
+        "title": "Châteaux de la Loire",
+        "description": "Accès facile aux plus beaux châteaux : Chambord, Chenonceau, Cheverny et bien d'autres."
+      }
+    },
+    "beauval": {
+      "title": "Val de Loire France - Visites & Expériences au Zoo",
+      "subtitle": "Réservez vos visites guidées du Zoo de Beauval. Découvrez des expériences uniques et des rencontres privilégiées avec les animaux.",
+      "guided": {
+        "title": "Visites Guidées",
+        "description": "Découvrez le zoo avec des guides experts"
+      },
+      "meetings": {
+        "title": "Rencontres Privilégiées",
+        "description": "Expériences uniques avec les animaux"
+      },
+      "tickets": {
+        "title": "Billets",
+        "description": "Réservez vos billets depuis nos hébergements"
+      },
+      "transport": {
+        "title": "Transport",
+        "description": "Depuis nos hébergements"
+      },
+      "cta": "Réserver une Visite du Zoo de Beauval"
+    }
+  },
+  "footer": {
+    "title": "Le Clos des Rossignols",
+    "description": "Hébergements thématiques uniques pour des expériences inoubliables dans la Vallée de la Loire.",
+    "visitOfficial": "Visiter le site officiel",
+    "contact": "Contact",
+    "address": "19 rue du 11 novembre, Chemery",
+    "phone": "06 11 03 46 52",
+    "email": "mcherve.37@gmail.com",
+    "viewOnGoogle": "Voir sur Google",
+    "cities": "Nos Villes",
+    "copyright": "© 2025 Le Clos des Rossignols. Tous droits réservés.",
+    "madeBy": "Créé par Oxelya"
+  },
+  "parallax": {
+    "title": "Découvrez nos hébergements proches des domaines viticoles",
+    "subtitle": "Des maisons thématiques uniques et les plus beaux châteaux du Val de Loire à proximité de vignobles d'une qualité exceptionnelle"
+  },
+  "vignobles": {
+    "title": "Découvrez Nos Maisons à Proximité",
+    "subtitle": "Séjournez dans nos maisons thématiques à quelques minutes du ZooParc de Beauval, l'un des plus beaux zoos du monde",
+    "features": {
+      "guided": "Maisons thématiques uniques et confortables",
+      "caves": "À 5 minutes du Zoo de Beauval",
+      "gastronomy": "Expérience immersive et authentique"
+    },
+    "cta": "Réserver Maintenant",
+    "images": {
+      "domaine": "Maison des Éléphants - Le Clos des Rossignols",
+      "vignoble": "Maison des Girafes - Le Clos des Rossignols",
+      "cave": "Maison des Koalas - Le Clos des Rossignols",
+      "degustation": "Maison des Lions - Le Clos des Rossignols",
+      "vignes": "Maison des Otaries - Le Clos des Rossignols",
+      "chambord": "ZooParc de Beauval - L'un des plus beaux zoos du monde",
+      "cheverny": "Éléphants du Zoo de Beauval",
+      "chenonceau": "Pandas du Zoo de Beauval"
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Remplissez ce formulaire pour nous contacter et nous vous répondrons dans les plus brefs délais.",
+    "form": {
+      "name": "Nom complet",
+      "namePlaceholder": "Votre nom",
+      "email": "Email",
+      "emailPlaceholder": "votre@email.com",
+      "message": "Message",
+      "messagePlaceholder": "Décrivez votre projet de séjour, vos attentes, questions...",
+      "submit": "Envoyer ma demande"
+    },
+    "content": {
+      "title": "Réservez votre séjour d'exception",
+      "subtitle": "Contactez-nous pour réserver votre séjour dans nos hébergements thématiques uniques. Notre équipe vous accompagne pour créer une expérience inoubliable dans le Val de Loire.",
+      "phone": {
+        "title": "Contact direct",
+        "number": "06 11 03 46 52"
+      },
+      "email": {
+        "title": "Email",
+        "address": "mcherve.37@gmail.com"
+      },
+      "address": {
+        "title": "Adresse",
+        "street": "19 rue du 11 novembre, Chemery"
+      },
+      "why": {
+        "title": "Pourquoi nous contacter ?",
+        "reservation": "Réservation personnalisée",
+        "advice": "Conseils sur les activités",
+        "response": "Réponse rapide sous 24h",
+        "support": "Accompagnement personnalisé"
+      }
+    }
+  },
+  "citySearch": {
+    "placeholder": "Rechercher une ville...",
+    "loading": "Chargement...",
+    "noResults": "Aucune ville trouvée",
+    "error": "Erreur lors du chargement des villes"
+  },
+  "cities": {
+    "dynamic": {
+      "hero": {
+        "title": "Val de Loire France - {cityName}",
+        "subtitle": "Découvrez {cityName} et ses environs près des vignobles et châteaux locaux. Profitez de nos hébergements thématiques uniques pour explorer les plus beaux sites touristiques de la région.",
+        "cta1": "Réserver maintenant",
+        "cta2": "Découvrir la région"
+      },
+      "calendar": {
+        "title": "Réservez votre séjour dès maintenant !",
+        "subtitle": "Les dates se remplissent rapidement près des vignobles et châteaux locaux. Consultez notre calendrier en temps réel et réservez avant qu'il ne soit trop tard !",
+        "urgency": "⚡ Prenez vite vos réservations !",
+        "description": "Nos maisons thématiques sont très demandées, surtout pendant les périodes de vacances. Ne laissez pas passer l'opportunité de vivre une expérience unique proches des vignobles et des châteaux locaux.",
+        "features": {
+          "realtime": "Réservations en temps réel",
+          "cancellation": "Annulation gratuite jusqu'à 48h avant",
+          "payment": "Paiement sécurisé"
+        },
+        "cta1": "Réserver maintenant",
+        "cta2": "Voir nos maisons",
+        "warning": "⚠️ {count} dates récemment réservées !"
+      },
+      "map": {
+        "title": "Localisation de {cityName} dans le Val de Loire",
+        "subtitle": "Découvrez la position exacte de {cityName} par rapport à notre complexe d'hébergement Le Clos des Rossignols. Planifiez votre séjour en toute sérénité.",
+        "location": {
+          "title": "Informations de localisation",
+          "region": "Région touristique",
+          "regionDesc": "Val de Loire, Centre-Val de Loire",
+          "distance": "Distance depuis Le Clos des Rossignols",
+          "distanceDesc": "Accès facile en voiture ou transports en commun"
+        },
+        "cta1": "Réserver maintenant",
+        "cta2": "Voir nos maisons"
+      },
+      "activities": {
+        "title": "Activités Touristiques & Expériences Uniques",
+        "subtitle": "Découvrez des expériences authentiques et des activités touristiques exclusives près des vignobles et châteaux locaux, loin des circuits touristiques classiques.",
+        "castles": {
+          "title": "🏰 Visites de Châteaux Privés",
+          "description": "Accédez à des châteaux privés fermés au public et découvrez l'histoire de la Renaissance française de manière exclusive.",
+          "cta": "Réserver un hébergement pour une visite privée →"
+        },
+        "wine": {
+          "title": "🍷 Dégustations de Vins Locaux",
+          "description": "Découvrez les meilleurs vins de la région avec des vignerons passionnés dans des caves historiques authentiques.",
+          "cta": "Réserver un hébergement pour une dégustation →"
+        },
+        "bike": {
+          "title": "🚴 Balades à Vélo Guidées",
+          "description": "Explorez les plus beaux villages de la Loire à vélo avec nos guides locaux qui partagent leurs secrets et anecdotes.",
+          "cta": "Réserver un hébergement pour une balade →"
+        }
+      },
+      "activities": {
+        "title": "Activités GetYourGuide à {cityName}",
+        "subtitle": "Réservez vos activités touristiques, visites guidées et expériences authentiques près des vignobles et châteaux locaux avec GetYourGuide. Découvrez des circuits touristiques exclusifs.",
+        "castles": {
+          "title": "Visites de Châteaux Privés",
+          "description": "Accédez à des châteaux privés fermés au public et découvrez l'histoire de la Renaissance française de manière exclusive.",
+          "cta": "Réserver sur GetYourGuide →"
+        },
+        "wine": {
+          "title": "Dégustations de Vins Locaux",
+          "description": "Découvrez les meilleurs vins de la région avec des vignerons passionnés dans des caves historiques authentiques.",
+          "cta": "Réserver sur GetYourGuide →"
+        },
+        "bike": {
+          "title": "Balades à Vélo Guidées",
+          "description": "Explorez les plus beaux villages de la Loire à vélo avec nos guides locaux qui partagent leurs secrets et anecdotes.",
+          "cta": "Réserver sur GetYourGuide →"
+        },
+        "cta": "Voir Toutes les Activités GetYourGuide"
+      },
+      "advantages": {
+        "title": "Pourquoi choisir Le Clos des Rossignols ?",
+        "subtitle": "Découvrez les avantages exclusifs de séjourner dans nos maisons thématiques près des vignobles et châteaux locaux.",
+        "thematic": {
+          "title": "🏰 Maisons Thématiques",
+          "description": "9 maisons uniques inspirées des animaux sauvages, chacune avec son ambiance et son style distinctif."
+        },
+        "location": {
+          "title": "📍 Emplacement Idéal",
+          "description": "Situé à proximité des plus beaux châteaux de la Loire et du Zoo de Beauval, accès facile à toutes les attractions."
+        },
+        "experience": {
+          "title": "🌟 Expérience Immersive",
+          "description": "Découvrez la région comme un local avec nos conseils personnalisés et nos expériences authentiques."
+        },
+        "quality": {
+          "title": "💎 Qualité Premium",
+          "description": "Confort moderne, équipements de qualité et service attentionné pour un séjour mémorable."
+        }
+      },
+      "testimonials": {
+        "title": "Témoignages de nos clients",
+        "subtitle": "Découvrez ce que disent nos visiteurs de leur expérience dans nos maisons thématiques près des vignobles et châteaux locaux."
+      },
+      "houses": {
+        "title": "Découvrez nos Maisons Thématiques",
+        "subtitle": "Chaque maison a sa propre identité et son ambiance unique, inspirée des animaux sauvages. Une expérience immersive près des vignobles et châteaux locaux.",
+        "brand": "Le Clos des Rossignols",
+        "description": "Découvrez nos maisons près des vignobles et châteaux locaux",
+        "tagline": "Le Clos des Rossignols - Vignobles et Châteaux Locaux",
+        "cta": "Découvrez nos maisons"
+      },
+      "citySection": {
+        "defaultTitle": "Découvrez cette ville unique",
+        "defaultSubtitle": "Une expérience authentique vous attend"
+      },
+      "finalCta1": {
+        "title": "Prêt à vivre une expérience unique près des vignobles et châteaux locaux - {cityName} ?",
+        "subtitle": "Réservez votre séjour maintenant et bénéficiez de nos offres spéciales. Nos hébergements uniques et activités exclusives vous attendent pour des vacances inoubliables.",
+        "cta1": "Réserver mon séjour",
+        "cta2": "Découvrir {cityName}"
+      },
+
+      "faq": {
+        "title": "Questions Fréquentes - Vignobles et {cityName}",
+        "subtitle": "Tout ce que vous devez savoir pour organiser votre séjour à {cityName} et découvrir ses vignobles locaux",
+        "q1": {
+          "question": "Quelle est la meilleure période pour visiter {cityName} et découvrir ses vignobles locaux ?",
+          "answer": "La meilleure période pour visiter {cityName} et ses vignobles s'étend d'avril à octobre. Le printemps offre des paysages magnifiques avec les vignes en fleurs, l'été permet de profiter pleinement des dégustations de vins et des activités viticoles, et l'automne offre les vendanges et des couleurs spectaculaires. L'hiver, bien que plus calme, permet de découvrir les caves et déguster les vins de garde dans une atmosphère intimiste.",
+          "category": "location"
+        },
+        "q2": {
+          "question": "Combien de temps faut-il pour découvrir les vignobles et domaines viticoles autour de {cityName} ?",
+          "answer": "Pour une découverte complète des vignobles autour de {cityName}, nous recommandons au moins 3 à 4 jours. Cela vous permettra de visiter les domaines viticoles locaux, participer aux dégustations, découvrir les caves historiques, et profiter des activités viticoles. Pour une expérience plus approfondie avec Le Clos des Rossignols, une semaine est idéale.",
+          "category": "planning"
+        },
+        "q3": {
+          "question": "Comment se déplacer entre les vignobles et domaines viticoles depuis {cityName} ?",
+          "answer": "La voiture est le moyen de transport le plus pratique pour explorer les vignobles autour de {cityName}. Les domaines viticoles sont bien reliés par des routes départementales. Des circuits viticoles organisés sont également disponibles depuis {cityName}, et Le Clos des Rossignols propose des services de transport personnalisés pour nos clients."
+        },
+        "q4": {
+          "question": "Quels sont les restaurants et domaines viticoles recommandés à proximité de {cityName} ?",
+          "answer": "La région autour de {cityName} regorge d'excellents restaurants et domaines viticoles proposant une cuisine traditionnelle française et des spécialités locales. Nous recommandons particulièrement les restaurants gastronomiques des vignobles, les fermes-auberges authentiques, et les établissements proposant des vins locaux. Le Clos des Rossignols peut vous fournir une liste personnalisée selon vos préférences."
+        },
+        "q5": {
+          "question": "Y a-t-il des activités pour les enfants dans les vignobles autour de {cityName} ?",
+          "answer": "Absolument ! Les vignobles autour de {cityName} proposent de nombreuses activités familiales. Les domaines viticoles organisent des visites adaptées aux enfants, des ateliers de découverte du raisin, et des activités ludiques. De nombreuses activités de plein air sont également disponibles : randonnées dans les vignes, vélo entre les domaines, et découverte de la nature viticole."
+        },
+        "q6": {
+          "question": "Peut-on visiter les vignobles et caves autour de {cityName} en hiver ?",
+          "answer": "Oui, la plupart des vignobles et caves autour de {cityName} sont ouverts toute l'année, avec des horaires adaptés en hiver. Cette période offre l'avantage d'une fréquentation moindre et d'une atmosphère plus authentique. Les caves sont particulièrement agréables en hiver pour déguster les vins de garde et découvrir les secrets de la vinification."
+        },
+        "q7": {
+          "question": "Quels sont les hébergements disponibles à {cityName} près des vignobles ?",
+          "answer": "À {cityName}, vous trouverez nos maisons thématiques uniques du Clos des Rossignols, des chambres d'hôtes traditionnelles, des gîtes ruraux, et des hôtels de charme. Nos hébergements sont situés dans des cadres exceptionnels au cœur des vignobles, offrant confort moderne et authenticité viticole. Nous proposons également des formules avec petit-déjeuner et demi-pension."
+        },
+        "q8": {
+          "question": "Comment réserver les visites des vignobles et domaines viticoles autour de {cityName} ?",
+          "answer": "Nous vous recommandons de réserver vos visites des vignobles à l'avance, surtout en haute saison. Vous pouvez réserver directement sur les sites officiels des domaines viticoles, ou nous contacter pour organiser des visites guidées privées. Le Clos des Rossignols propose également des forfaits combinant hébergement et visites viticoles."
+        },
+        "q9": {
+          "question": "Y a-t-il des événements viticoles spéciaux autour de {cityName} ?",
+          "answer": "La région autour de {cityName} accueille de nombreux événements viticoles tout au long de l'année : festivals du vin, expositions temporaires, marchés de producteurs locaux, et célébrations traditionnelles. Les vendanges, les fêtes du vin, et les Journées du Patrimoine sont des moments forts à ne pas manquer."
+        },
+        "q10": {
+          "question": "Quels sont les produits viticoles et locaux de {cityName} à rapporter ?",
+          "answer": "La région de {cityName} est réputée pour ses vins locaux, ses fromages de chèvre, ses confitures artisanales, et ses produits du terroir. Les vignobles proposent souvent leurs propres boutiques avec des produits de qualité. Nous recommandons également les produits des artisans locaux : vins, liqueurs, et spécialités viticoles."
+        },
+        "q11": {
+          "question": "Comment organiser un séjour romantique dans les vignobles autour de {cityName} ?",
+          "answer": "Pour un séjour romantique dans les vignobles autour de {cityName}, nous proposons des packages spéciaux incluant hébergement dans nos maisons les plus romantiques du Clos des Rossignols, dîners aux chandelles, visites privées des vignobles, et activités en couple comme des balades dans les vignes ou des dégustations de vins intimistes."
+        },
+        "q12": {
+          "question": "Peut-on faire des randonnées dans les vignobles autour de {cityName} ?",
+          "answer": "Les vignobles autour de {cityName} offrent de nombreux sentiers de randonnée, notamment des circuits entre les domaines viticoles et des chemins dans la campagne viticole. Les chemins sont bien balisés et accessibles à tous niveaux. Le Clos des Rossignols propose des cartes détaillées et des guides pour vous accompagner dans vos découvertes."
+        },
+        "q13": {
+          "question": "Quels sont les horaires d'ouverture des vignobles autour de {cityName} ?",
+          "answer": "Les vignobles autour de {cityName} sont généralement ouverts toute l'année, avec des horaires variables selon les saisons. En été, ils sont souvent ouverts de 9h à 19h, en hiver de 9h à 17h. Nous recommandons de réserver à l'avance pour les dégustations et visites guidées."
+        },
+        "q14": {
+          "question": "Comment se rendre à {cityName} et ses vignobles depuis Paris ?",
+          "answer": "Depuis Paris, vous pouvez rejoindre {cityName} et ses vignobles en train (gare de Saint-Aignan-sur-Cher à 15 minutes), en voiture (environ 2h30 par l'A10), ou en bus. Le Clos des Rossignols propose également un service de transfert depuis les gares et aéroports pour faciliter votre arrivée."
+        },
+        "q15": {
+          "question": "Y a-t-il des activités pour les personnes à mobilité réduite dans les vignobles autour de {cityName} ?",
+          "answer": "Oui, la plupart des vignobles autour de {cityName} sont adaptés aux personnes à mobilité réduite. Les domaines viticoles proposent des visites spécialement conçues, et nos hébergements du Clos des Rossignols sont équipés pour accueillir tous les types de visiteurs. Nous pouvons organiser des visites personnalisées selon vos besoins."
+        }
+      },
+      "finalCta2": {
+        "title": "Val de Loire France - {cityName}",
+        "subtitle": "Découvrez les meilleures activités touristiques dans la région de {cityName} et du Val de Loire. Réservez vos visites guidées, expériences authentiques et circuits touristiques exclusifs.",
+        "cta1": "Réserver maintenant",
+        "cta2": "Découvrir {cityName}"
+      }
+    },
+    "chemery": {
+      "hero": {
+        "title": "Découvrez Chémery, Porte d'Entrée du Zoo de Beauval",
+        "subtitle": "Niché au cœur de la Vallée de la Loire, Chémery est le point de départ idéal pour explorer le plus grand zoo de France et les plus beaux châteaux de la région.",
+        "cta1": "Réserver mon séjour",
+        "cta2": "Découvrir la région"
+      },
+      "presentation": {
+        "title": "Chémery : Un Village de Caractère",
+        "description1": "Situé à seulement 15 minutes du Zoo de Beauval, Chémery est un charmant village de la Vallée de la Loire qui allie authenticité rurale et proximité des grandes attractions touristiques.",
+        "description2": "Avec ses maisons traditionnelles en pierre de tuffeau, ses ruelles pittoresques et son ambiance chaleureuse, Chémery offre une expérience authentique de la vie locale.",
+        "distances": {
+          "beauval": "15 min",
+          "chenonceau": "25 min",
+          "chambord": "45 min",
+          "cheverny": "20 min"
+        },
+        "rating": "4.8/5",
+        "ratingText": "Note moyenne des visiteurs"
+      },
+      "attractions": {
+        "title": "Les Attractions de Chémery et ses Environs",
+        "subtitle": "Découvrez les merveilles qui entourent notre village et profitez d'un séjour riche en découvertes et en émotions.",
+        "beauval": {
+          "title": "Zoo de Beauval",
+          "description": "Le plus grand zoo de France avec plus de 35 000 animaux",
+          "distance": "15 min",
+          "rating": "4.8/5",
+          "cta": "Réserver une visite →"
+        },
+        "chenonceau": {
+          "title": "Château de Chenonceau",
+          "description": "Le château des Dames, joyau de la Renaissance",
+          "distance": "25 min",
+          "rating": "4.7/5",
+          "cta": "Réserver une visite →"
+        },
+        "chambord": {
+          "title": "Château de Chambord",
+          "description": "Le plus grand château de la Loire, chef-d'œuvre de François Ier",
+          "distance": "45 min",
+          "rating": "4.6/5",
+          "cta": "Réserver une visite →"
+        },
+        "cheverny": {
+          "title": "Château de Cheverny",
+          "description": "Château privé habité, inspirateur du château de Moulinsart",
+          "distance": "20 min",
+          "rating": "4.5/5",
+          "cta": "Réserver une visite →"
+        }
+      },
+      "experiences": {
+        "title": "Expériences Locales Authentiques",
+        "subtitle": "Vivez la vraie vie de Chémery et de la Vallée de la Loire avec des expériences authentiques et des rencontres inoubliables avec les habitants.",
+        "cooking": {
+          "title": "Cours de Cuisine Traditionnelle",
+          "description": "Apprenez à cuisiner les spécialités locales avec des chefs passionnés dans des cuisines authentiques de châteaux.",
+          "cta": "Réserver un cours →"
+        },
+        "craft": {
+          "title": "Ateliers d'Artisanat",
+          "description": "Découvrez les savoir-faire traditionnels : poterie, vannerie, et autres métiers d'art de la région.",
+          "cta": "Réserver un atelier →"
+        },
+        "gardens": {
+          "title": "Découverte des Jardins Secrets",
+          "description": "Visitez des jardins privés exceptionnels et apprenez les secrets de l'art des jardins à la française.",
+          "cta": "Réserver une visite →"
+        }
+      }
+    }
+  },
+  "reservationModal": {
+    "title": "Réserver cette maison",
+    "characteristics": "Caractéristiques :",
+    "capacity": "Capacité :",
+    "price": "Prix :",
+    "includedActivities": "Activités incluses :",
+    "form": {
+      "dates": "Dates de séjour",
+      "people": "Nombre de personnes",
+      "name": "Nom complet",
+      "email": "Email",
+      "phone": "Téléphone",
+      "message": "Message",
+      "submit": "Envoyer ma réservation"
+    },
+    "success": "Réservation envoyée ! Nous vous contacterons rapidement."
+  },
+  "animatedText": {
+    "cta1": [
+      "Prêt à vivre l'aventure ?",
+      "Découvrez nos hébergements",
+      "Vivez une expérience unique",
+      "Le Clos des Rossignols"
+    ],
+    "cta2": [
+      "Prêt pour l'aventure ?",
+      "Contactez-nous",
+      "Réservez maintenant",
+      "Vivez l'expérience"
+    ],
+    "final": [
+      "Activités Touristiques & Expériences Uniques",
+      "Val de Loire",
+      "Châteaux et vignobles",
+      "Expérience unique"
+    ],
+    "cityPreview": [
+      "Val de Loire France - {cityName}",
+      "Découvrez {cityName}",
+      "Vivez l'expérience",
+      "Le Clos des Rossignols"
+    ]
+  },
+  "languages": {
+    "french": "Français",
+    "english": "English",
+      "spanish": "Español",
+  "german": "Deutsch"
+},
+"heroSection": {
+  "heroTitle": "Découvrez le Clos des Rossignols",
+  "title": "Après le Zoo de Beauval,",
+  "titleHighlight": "Vivez l'Expérience Animale",
+  "subtitle": "Découvrez nos maisons thématiques uniques, inspirées des animaux que vous venez d'admirer au ZooParc. Chaque maison vous transporte dans un univers différent, prolongeant la magie de votre visite."
+},
+"animalCarousel": {
+  "slides": [
+    {
+      "title": "Maison des Singes",
+      "button": "Découvrir",
+      "src": "/animals/fungorilla.jpg"
+    },
+    {
+      "title": "Maison des Pandas",
+      "button": "Découvrir",
+      "src": "/animals/panda.jpg"
+    },
+    {
+      "title": "Maison des Lions",
+      "button": "Découvrir",
+      "src": "/animals/blackpanther.jpg"
+    },
+    {
+      "title": "Maison des Éléphants",
+      "button": "Découvrir",
+      "src": "/animals/elephantbanner.jpg"
+    },
+    {
+      "title": "Maison des Girafes",
+      "button": "Découvrir",
+      "src": "/animals/giraffe.jpg"
+    },
+    {
+      "title": "Maison des Koalas",
+      "button": "Découvrir",
+      "src": "/animals/koala.jpg"
+    }
+  ]
+},
+"conversionSection": {
+  "title": "Pourquoi Choisir le Clos des Rossignols ?",
+  "proximity": {
+    "title": "À 5 minutes du Zoo de Beauval",
+    "description": "Profitez de la proximité pour visiter le zoo plusieurs fois pendant votre séjour"
+  },
+  "thematic": {
+    "title": "Maisons Thématiques Uniques",
+    "description": "Chaque maison raconte une histoire différente, prolongeant l'expérience du zoo"
+  },
+  "rest": {
+    "title": "Repos Après l'Effort",
+    "description": "Revenez vous détendre dans le confort après une journée d'exploration"
+  },
+  "cta": "Réserver Maintenant"
+},
+"animalScrollExperience": {
+  "experiences": [
+    {
+      "id": "panther",
+      "title": "Chasse Nocturne",
+      "description": "Vivez l'expérience de la chasse nocturne comme une panthère noire dans les forêts mystérieuses de la Vallée de la Loire.",
+      "image": "/animals/blackpanther.jpg",
+      "emoji": "🐆"
+    },
+    {
+      "id": "elephant",
+      "title": "Force Majestueuse",
+      "description": "Découvrez la puissance et la sagesse des éléphants en explorant les châteaux majestueux de la Renaissance française.",
+      "image": "/animals/elephantbanner.jpg",
+      "emoji": "🐘"
+    },
+    {
+      "id": "gorilla",
+      "title": "Intelligence Primate",
+      "description": "Plongez dans l'intelligence et la créativité des gorilles en participant à des ateliers d'artisanat traditionnel.",
+      "image": "/animals/fungorilla.jpg",
+      "emoji": "🦍"
+    },
+    {
+      "id": "panda",
+      "title": "Tranquillité Zen",
+      "description": "Trouvez la paix intérieure comme un panda en visitant les jardins secrets et méditatifs de la région.",
+      "image": "/animals/panda.jpg",
+      "emoji": "🐼"
+    },
+    {
+      "id": "giraffe",
+      "title": "Vue d'En Haut",
+      "description": "Adoptez la perspective unique des girafes en explorant les tours et belvédères des châteaux de la Loire.",
+      "image": "/animals/giraffe.jpg",
+      "emoji": "🦒"
+    },
+    {
+      "id": "koala",
+      "title": "Confort Naturel",
+      "description": "Profitez du confort et de la douceur des koalas en séjournant dans nos maisons thématiques exclusives.",
+      "image": "/animals/koala.jpg",
+      "emoji": "🐨"
+    }
+  ]
+},
+"parallaxSection": {
+  "title": "Zoo de Beauval & Le Clos des Rossignols",
+  "subtitle": "Découvrez l'un des plus beaux zoos du monde et séjournez dans nos maisons thématiques uniques à quelques minutes",
+  "thematicHouses": {
+    "title": "Maisons Thématiques Uniques",
+    "description": "9 maisons inspirées des animaux sauvages : Éléphants, Girafes, Lions, Pandas et plus encore",
+    "cta": "Découvrir nos maisons"
+  },
+  "beauvalZoo": {
+    "title": "ZooParc de Beauval",
+    "description": "Plus de 35 000 animaux dans 22 territoires thématiques, classé parmi les meilleurs zoos du monde",
+    "cta": "Visiter le zoo"
+  },
+  "castles": {
+    "title": "Châteaux de la Loire",
+    "description": "Chambord, Chenonceau, Cheverny... Découvrez les plus beaux châteaux à proximité",
+    "cta": "Explorer la région"
+  }
+},
+"seoSection": {
+  "title": "Séjournez au Clos des Rossignols, à Proximité du Zoo de Beauval",
+  "subtitle": "Découvrez nos maisons thématiques uniques dans le Val de Loire, à quelques minutes du ZooParc de Beauval. Une expérience immersive au cœur de la nature et des châteaux de la Renaissance.",
+  "categories": {
+    "accommodations": {
+      "title": "Hébergements Thématiques",
+      "features": [
+        "Maisons inspirées des animaux sauvages",
+        "Confort moderne et authenticité",
+        "Capacité 4-6 personnes",
+        "Cuisine équipée et salon spacieux"
+      ]
+    },
+    "beauval": {
+      "title": "ZooParc de Beauval",
+      "features": [
+        "Plus de 35 000 animaux",
+        "22 territoires thématiques",
+        "Classé parmi les meilleurs zoos",
+        "À 5 minutes du Clos des Rossignols"
+      ]
+    },
+    "castles": {
+      "title": "Châteaux de la Loire",
+      "features": [
+        "Chambord, Chenonceau, Cheverny",
+        "Architecture Renaissance",
+        "Jardins et parcs historiques",
+        "Visites guidées exclusives"
+      ]
+    },
+    "activities": {
+      "title": "Activités & Expériences",
+      "features": [
+        "Dégustations de vins locaux",
+        "Balades à vélo dans la région",
+        "Gastronomie du Val de Loire",
+        "Artisanat traditionnel"
+      ]
+    },
+    "location": {
+      "title": "Localisation & Accès",
+      "features": [
+        "Val de Loire, Centre-Val de Loire",
+        "2h30 de Paris en voiture",
+        "Gare TGV à Saint-Aignan",
+        "Parking gratuit sur place"
+      ]
+    },
+    "services": {
+      "title": "Services & Réservation",
+      "features": [
+        "Réservation en ligne sécurisée",
+        "Annulation gratuite 48h avant",
+        "Accueil personnalisé",
+        "Conseils et recommandations"
+      ]
+    }
+  },
+  "cta": {
+    "subtitle": "Prêt à vivre une expérience unique au cœur du Val de Loire ?",
+    "reserve": "Réserver Maintenant",
+    "visitZoo": "Visiter le Zoo"
+  }
+}
+} 

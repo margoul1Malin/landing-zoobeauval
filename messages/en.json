@@ -1,0 +1,878 @@
+{
+  "header": {
+    "title": "Le Clos des Rossignols",
+    "subtitle": "Unique Thematic Accommodations",
+    "reserve": "Book",
+    "contact": "Contact",
+    "logoAlt": "Le Clos des Rossignols",
+    "googleTooltip": "View on Google",
+    "phoneTooltip": "Call",
+    "emailTooltip": "Send email",
+    "phone": "06 11 03 46 52",
+    "email": "mcherve.37@gmail.com",
+    "mobile": {
+      "reserve": "Book",
+      "viewSite": "View site"
+    }
+  },
+  "hero": {
+    "title": "Discover Unique Experiences in Our Thematic Houses",
+    "subtitle": "Immerse yourself in a world of adventures with our 9 houses inspired by wild animals. Each stay is an immersive experience with tailor-made activities.",
+    "mainTitle": "Loire Valley",
+    "subTitle": "Le Clos des Rossignols",
+    "description": "Discover immersive experiences in our houses inspired by wild animals. A unique adventure in the heart of the Loire Valley.",
+    "reserve": "Book now",
+    "discover": "Discover our houses",
+    "loading": "Loading video...",
+    "error": "Video unavailable",
+    "errorSubtitle": "Background image will be displayed instead",
+    "heroTitle": "Discover Le Clos des Rossignols",
+    "heroSubtitle": "Your luxury destination in the Loire Valley. Find your city and discover our exceptional accommodations.",
+    "stats": {
+      "houses": "Thematic Houses",
+      "castles": "Nearby Castles",
+      "experiences": "Unique Experiences",
+      "housesCount": "9",
+      "activitiesCount": "50+",
+      "rating": "4.9★",
+      "housesLabel": "Thematic houses",
+      "activitiesLabel": "Available activities",
+      "ratingLabel": "Average rating"
+    }
+  },
+  "cta": {
+    "title": "Ready for the Adventure?",
+    "subtitle": "Discover our 9 unique thematic houses and book your stay for an unforgettable immersive experience in the Loire Valley.",
+    "reserve": "Book Now",
+    "discover": "Discover Our Houses"
+  },
+  "houses": {
+    "title": "Our Thematic Houses",
+    "subtitle": "Each house transports you to a unique universe, inspired by wild animals",
+    "activities": "Activities:",
+    "book": "Book"
+  },
+  "maisons": {
+    "elephants": {
+      "name": "Elephant House",
+      "description": "A majestic dwelling inspired by African savannas",
+      "capacity": "4 people",
+      "price": "from €120/night",
+      "activities": ["Photo safari", "Tea tasting", "Exotic garden"]
+    },
+    "giraffes": {
+      "name": "Giraffe House",
+      "description": "Elegance and height in a unique setting",
+      "capacity": "4 people",
+      "price": "from €130/night",
+      "activities": ["Stargazing", "High-altitude picnic", "Nature walk"]
+    },
+    "koalas": {
+      "name": "Koala House",
+      "description": "Australian coziness and softness",
+      "capacity": "6 people",
+      "price": "from €140/night",
+      "activities": ["Morning yoga", "Spa relaxation", "Zen garden"]
+    },
+    "lions": {
+      "name": "Lion House",
+      "description": "Strength and nobility in a royal setting",
+      "capacity": "4 people",
+      "price": "from €135/night",
+      "activities": ["Treasure hunt", "Royal games", "Safari barbecue"]
+    },
+    "otaries": {
+      "name": "Sea Lion House",
+      "description": "Playful and dynamic like the oceans",
+      "capacity": "6 people",
+      "price": "from €125/night",
+      "activities": ["Water games", "Fishing", "Coastal walk"]
+    },
+    "ours": {
+      "name": "Bear House",
+      "description": "Quiet strength and Nordic comfort",
+      "capacity": "4 people",
+      "price": "from €130/night",
+      "activities": ["Forest hiking", "Rustic cooking", "Campfire"]
+    },
+    "pandas": {
+      "name": "Panda House",
+      "description": "Peace and serenity in a green haven",
+      "capacity": "4 people",
+      "price": "from €140/night",
+      "activities": ["Bamboo meditation", "Tea ceremony", "Japanese garden"]
+    },
+    "perroquets": {
+      "name": "Parrot House",
+      "description": "Vibrant colors and tropical atmosphere",
+      "capacity": "4 people",
+      "price": "from €120/night",
+      "activities": ["Tropical cocktails", "Latin dance", "Exotic garden"]
+    },
+    "singes": {
+      "name": "Monkey House",
+      "description": "Mischievous and adventurous in the jungle",
+      "capacity": "6 people",
+      "price": "from €125/night",
+      "activities": ["Adventure course", "Team games", "Jungle exploration"]
+    }
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Discover the unique experiences lived by our visitors in our thematic houses"
+  },
+  "cta2": {
+    "title": "Ready for the Adventure?",
+    "subtitle": "Book now and benefit from our special offers. Our houses fill up quickly!",
+    "reserve": "Book Now",
+    "contact": "Contact Us"
+  },
+  "activities": {
+    "title": "Tourist Activities & Unique Experiences",
+    "subtitle": "Discover authentic experiences and exclusive tourist activities in the Loire Valley, far from classic tourist circuits.",
+    "mainTitle": "Discover the Loire Valley",
+    "discoverLink": "Discover the Loire Valley",
+    "castles": {
+      "title": "Private Castle Tours",
+      "description": "Access private castles closed to the public and discover the history of the French Renaissance in an exclusive way.",
+      "cta": "Book accommodation for a private tour →"
+    },
+    "wine": {
+      "title": "Local Wine Tastings",
+      "description": "Discover the best wines of the region with passionate winemakers in authentic historical cellars.",
+      "cta": "Book accommodation for a tasting →"
+    },
+    "bike": {
+      "title": "Guided Bike Tours",
+      "description": "Explore the most beautiful villages of the Loire by bike with our local guides who share their secrets and anecdotes.",
+      "cta": "Book accommodation for a tour →"
+    }
+  },
+  "region": {
+    "title": "Discover the Region",
+    "subtitle": "Enjoy your stay to visit the most beautiful tourist sites in the Loire Valley, all accessible from our accommodations.",
+    "why": {
+      "title": "Why choose our accommodations?",
+      "location": {
+        "title": "Ideal Location",
+        "description": "Located near the most beautiful tourist sites in the region"
+      },
+      "comfort": {
+        "title": "Guaranteed Comfort",
+        "description": "Unique thematic accommodations for memorable stays"
+      },
+      "experience": {
+        "title": "Local Experience",
+        "description": "Discover the region like a local with our personalized advice"
+      }
+    }
+  },
+  "attractions": {
+    "beauval": {
+      "name": "Beauval Zoo",
+      "type": "Zoo & Wildlife Park",
+      "description": "France's largest zoo with over 35,000 animals",
+      "rating": "4.8/5",
+      "distance": "15 min",
+      "cta": "Book"
+    },
+    "chenonceau": {
+      "name": "Château de Chenonceau",
+      "type": "Castle",
+      "description": "The Ladies' Castle, jewel of the Renaissance",
+      "rating": "4.7/5",
+      "distance": "25 min",
+      "cta": "Book"
+    },
+    "chambord": {
+      "name": "Château de Chambord",
+      "type": "Castle",
+      "description": "The largest castle in the Loire, masterpiece of Francis I",
+      "rating": "4.6/5",
+      "distance": "45 min",
+      "cta": "Book"
+    },
+    "cheverny": {
+      "name": "Château de Cheverny",
+      "type": "Castle",
+      "description": "Inhabited private castle, inspiration for Moulinsart Castle",
+      "rating": "4.5/5",
+      "distance": "20 min",
+      "cta": "Book"
+    }
+  },
+  "experiences": {
+    "title": "Local & Immersive Experiences",
+    "subtitle": "Live the real life of the Loire Valley with authentic experiences and unforgettable encounters with the locals.",
+    "cooking": {
+      "title": "Traditional Cooking Classes",
+      "description": "Learn to cook local specialties with passionate chefs in authentic castle kitchens."
+    },
+    "craft": {
+      "title": "Craft Workshops",
+      "description": "Discover traditional know-how: pottery, basketry, and other regional crafts."
+    },
+    "gardens": {
+      "title": "Secret Gardens Discovery",
+      "description": "Visit exceptional private gardens and learn the secrets of French garden art."
+    },
+    "why": {
+      "title": "Why Choose Our Experiences?",
+      "exclusive": "Exclusive access to places closed to the public",
+      "guides": "Passionate and expert local guides",
+      "groups": "Limited groups for a personalized experience",
+      "authentic": "Authentic activities, far from mass tourism",
+      "flexible": "Flexible booking and free cancellation",
+      "cta": "Discover All Our Experiences"
+    }
+  },
+  "textcarousel": {
+    "valdeloire": "Loire Valley",
+    "closdesrossignols": "Le Clos des Rossignols",
+    "hebergements": "Unique thematic accommodations",
+    "experience": "Immersive experience in the Loire Valley"
+  },
+  "final": {
+    "title": "Tourist Activities & Unique Experiences",
+    "subtitle": "Book your tourist activities, guided tours and authentic experiences in the Loire Valley. Discover exclusive tourist circuits and unique cultural activities.",
+    "categories": {
+      "comfort": "Comfortable Accommodation",
+      "castles": "Private Castles",
+      "tastings": "Tastings",
+      "tours": "Guided Tours"
+    },
+    "reserve": "Book My Activities",
+    "circuits": "See All Circuits"
+  },
+  "seo": {
+    "getyourguide": {
+      "title": "Val de Loire France - Tourist Activities & Unique Experiences",
+      "subtitle": "Discover the best tourist activities in the Versailles region and the Loire Valley. Book your guided tours, authentic experiences and exclusive tourist circuits.",
+      "castles": {
+        "title": "Loire Castles",
+        "description": "Visit the most beautiful Loire castles with expert guides. Discover the history of the French Renaissance in an exclusive way.",
+        "cta": "Book a guided tour →"
+      },
+      "wine": {
+        "title": "Wine Tastings",
+        "description": "Discover the best wines of the region with passionate winemakers. Authentic experiences in historical cellars.",
+        "cta": "Book a tasting →"
+      },
+      "bike": {
+        "title": "Guided Tours",
+        "description": "Explore the region by bike with our local guides. Discover the secrets and anecdotes of the Loire Valley.",
+        "cta": "Book a tour →"
+      }
+    },
+    "hotels": {
+      "title": "Chemery Hotels - Quality Accommodations in the Loire Valley",
+      "subtitle": "Discover our unique thematic accommodations in Chemery, ideally located to visit Beauval Zoo and the Loire castles.",
+      "location": {
+        "title": "Ideal Location",
+        "description": "Our accommodations in Chemery are perfectly located to access the main tourist attractions in the region."
+      },
+      "comfort": {
+        "title": "Guaranteed Comfort",
+        "description": "Unique thematic accommodations with all modern comforts for memorable stays."
+      },
+      "beauval": {
+        "title": "Beauval Zoo",
+        "description": "Only 15 minutes from Beauval Zoo, France's largest zoo with over 35,000 animals."
+      },
+      "castles": {
+        "title": "Loire Castles",
+        "description": "Easy access to the most beautiful castles: Chambord, Chenonceau, Cheverny and many others."
+      }
+    },
+    "beauval": {
+      "title": "Val de Loire France - Zoo Tours & Experiences",
+      "subtitle": "Book your guided tours of Beauval Zoo. Discover unique experiences and privileged encounters with animals.",
+      "guided": {
+        "title": "Guided Tours",
+        "description": "Discover the zoo with expert guides"
+      },
+      "meetings": {
+        "title": "Privileged Encounters",
+        "description": "Unique experiences with animals"
+      },
+      "tickets": {
+        "title": "Tickets",
+        "description": "Book your tickets from our accommodations"
+      },
+      "transport": {
+        "title": "Transport",
+        "description": "From our accommodations"
+      },
+      "cta": "Book a Beauval Zoo Tour"
+    }
+  },
+  "footer": {
+    "title": "Le Clos des Rossignols",
+    "description": "Unique thematic accommodations for unforgettable experiences in the Loire Valley.",
+    "visitOfficial": "Visit official website",
+    "contact": "Contact",
+    "address": "19 rue du 11 novembre, Chemery",
+    "phone": "06 11 03 46 52",
+    "email": "mcherve.37@gmail.com",
+    "viewOnGoogle": "View on Google",
+    "cities": "Our Cities",
+    "copyright": "© 2025 Le Clos des Rossignols. All rights reserved.",
+    "madeBy": "Made by Oxelya"
+  },
+  "parallax": {
+    "title": "Discover our accommodations near wine estates",
+    "subtitle": "Unique thematic houses and the most beautiful castles of the Loire Valley near exceptional quality vineyards"
+  },
+  "vignobles": {
+    "title": "Discover Our Houses Nearby",
+    "subtitle": "Stay in our thematic houses just minutes from ZooParc de Beauval, one of the most beautiful zoos in the world",
+    "features": {
+      "guided": "Unique and comfortable thematic houses",
+      "caves": "5 minutes from Zoo de Beauval",
+      "gastronomy": "Immersive and authentic experience"
+    },
+    "cta": "Book Now",
+    "images": {
+      "domaine": "Elephant House - Le Clos des Rossignols",
+      "vignoble": "Giraffe House - Le Clos des Rossignols",
+      "cave": "Koala House - Le Clos des Rossignols",
+      "degustation": "Lion House - Le Clos des Rossignols",
+      "vignes": "Sea Lion House - Le Clos des Rossignols",
+      "chambord": "ZooParc de Beauval - One of the most beautiful zoos in the world",
+      "cheverny": "Elephants of Zoo de Beauval",
+      "chenonceau": "Pandas of Zoo de Beauval"
+    }
+  },
+  "contact": {
+    "title": "Contact us",
+    "subtitle": "Fill out this form to contact us and we will respond to you as soon as possible.",
+    "form": {
+      "name": "Full name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "your@email.com",
+      "message": "Message",
+      "messagePlaceholder": "Describe your stay project, your expectations, questions...",
+      "submit": "Send my request"
+    },
+    "content": {
+      "title": "Book your exceptional stay",
+      "subtitle": "Contact us to book your stay in our unique thematic accommodations. Our team accompanies you to create an unforgettable experience in the Loire Valley.",
+      "phone": {
+        "title": "Direct contact",
+        "number": "06 11 03 46 52"
+      },
+      "email": {
+        "title": "Email",
+        "address": "mcherve.37@gmail.com"
+      },
+      "address": {
+        "title": "Address",
+        "street": "19 rue du 11 novembre, Chemery"
+      },
+      "why": {
+        "title": "Why contact us?",
+        "reservation": "Personalized booking",
+        "advice": "Activity advice",
+        "response": "Quick response within 24h",
+        "support": "Personalized support"
+      }
+    }
+  },
+  "cities": {
+    "dynamic": {
+      "hero": {
+        "title": "Val de Loire France - {cityName}",
+        "subtitle": "Discover {cityName} and its surroundings near local vineyards and castles. Enjoy our unique thematic accommodations to explore the most beautiful tourist sites in the region.",
+        "cta1": "Book now",
+        "cta2": "Discover the region"
+      },
+      "calendar": {
+        "title": "Book your stay now!",
+        "subtitle": "Dates are filling up quickly near local vineyards and castles. Check our real-time calendar and book before it's too late!",
+        "urgency": "⚡ Book your reservations quickly!",
+        "description": "Our thematic houses are in high demand, especially during holiday periods. Don't miss the opportunity to live a unique experience near local vineyards and castles.",
+        "features": {
+          "realtime": "Real-time reservations",
+          "cancellation": "Free cancellation up to 48h before",
+          "payment": "Secure payment"
+        },
+        "cta1": "Book now",
+        "cta2": "See our houses",
+        "warning": "⚠️ {count} dates recently booked!"
+      },
+      "map": {
+        "title": "Location of {cityName} in the Loire Valley",
+        "subtitle": "Discover the exact position of {cityName} in relation to our Le Clos des Rossignols accommodation complex. Plan your stay with complete peace of mind.",
+        "location": {
+          "title": "Location information",
+          "region": "Tourist region",
+          "regionDesc": "Loire Valley, Centre-Val de Loire",
+          "distance": "Distance from Le Clos des Rossignols",
+          "distanceDesc": "Easy access by car or public transport"
+        },
+        "cta1": "Book now",
+        "cta2": "See our houses"
+      },
+      "activities": {
+        "title": "Tourist Activities & Unique Experiences",
+        "subtitle": "Discover authentic experiences and exclusive tourist activities near local vineyards and castles, far from classic tourist circuits.",
+        "castles": {
+          "title": "🏰 Private Castle Tours",
+          "description": "Access private castles closed to the public and discover the history of the French Renaissance in an exclusive way.",
+          "cta": "Book accommodation for a private tour →"
+        },
+        "wine": {
+          "title": "🍷 Local Wine Tastings",
+          "description": "Discover the best wines of the region with passionate winemakers in authentic historical cellars.",
+          "cta": "Book accommodation for a tasting →"
+        },
+        "bike": {
+          "title": "🚴 Guided Bike Tours",
+          "description": "Explore the most beautiful villages of the Loire by bike with our local guides who share their secrets and anecdotes.",
+          "cta": "Book accommodation for a tour →"
+        }
+      },
+      "advantages": {
+        "title": "Why choose Le Clos des Rossignols?",
+        "subtitle": "Discover the exclusive benefits of staying in our thematic houses near local vineyards and castles.",
+        "thematic": {
+          "title": "🏰 Thematic Houses",
+          "description": "9 unique houses inspired by wild animals, each with its own atmosphere and distinctive style."
+        },
+        "location": {
+          "title": "📍 Ideal Location",
+          "description": "Located near the most beautiful Loire castles and Beauval Zoo, easy access to all attractions."
+        },
+        "experience": {
+          "title": "🌟 Immersive Experience",
+          "description": "Discover the region like a local with our personalized advice and authentic experiences."
+        },
+        "quality": {
+          "title": "💎 Premium Quality",
+          "description": "Modern comfort, quality equipment and attentive service for a memorable stay."
+        }
+      },
+      "testimonials": {
+        "title": "Customer Testimonials",
+        "subtitle": "Discover what our visitors say about their experience in our thematic houses near local vineyards and castles."
+      },
+      "houses": {
+        "title": "Discover our Thematic Houses",
+        "subtitle": "Each house has its own identity and unique atmosphere, inspired by wild animals. An immersive experience near local vineyards and castles.",
+        "brand": "Le Clos des Rossignols",
+        "description": "Discover our houses near local vineyards and castles",
+        "tagline": "Le Clos des Rossignols - Local Vineyards and Castles",
+        "cta": "Discover our houses"
+      },
+      "citySection": {
+        "defaultTitle": "Discover this unique city",
+        "defaultSubtitle": "An authentic experience awaits you"
+      },
+      "finalCta1": {
+        "title": "Ready to live a unique experience near local vineyards and castles - {cityName} ?",
+        "subtitle": "Book your stay now and benefit from our special offers. Our unique accommodations and exclusive activities await you for unforgettable holidays.",
+        "cta1": "Book my stay",
+        "cta2": "Discover {cityName}"
+      },
+      "finalCta2": {
+        "title": "Val de Loire France - {cityName}",
+        "subtitle": "Discover the best tourist activities in the {cityName} region and the Val de Loire. Book your guided tours, authentic experiences and exclusive tourist circuits.",
+        "cta1": "Book now",
+        "cta2": "Discover {cityName}"
+      },
+      "faq": {
+        "title": "Frequently Asked Questions - Vineyards and {cityName}",
+        "subtitle": "Everything you need to know to organize your stay in {cityName} and discover its local vineyards",
+        "q1": {
+          "question": "What is the best time to visit {cityName} and discover its local vineyards?",
+          "answer": "The best time to visit {cityName} and its vineyards extends from April to October. Spring offers magnificent landscapes with vineyards in bloom, summer allows you to fully enjoy wine tastings and viticultural activities, and autumn offers grape harvests and spectacular colors. Winter, although quieter, allows you to discover wine cellars and taste aged wines in an intimate atmosphere.",
+          "category": "location"
+        },
+        "q2": {
+          "question": "How long does it take to discover the vineyards and wine estates around {cityName}?",
+          "answer": "For a complete discovery of the vineyards around {cityName}, we recommend at least 3 to 4 days. This will allow you to visit local wine estates, participate in tastings, discover historic cellars, and enjoy viticultural activities. For a more in-depth experience with Le Clos des Rossignols, a week is ideal.",
+          "category": "planning"
+        },
+        "q3": {
+          "question": "How to get around between vineyards and wine estates from {cityName}?",
+          "answer": "The car is the most practical means of transport to explore the vineyards around {cityName}. Wine estates are well connected by departmental roads. Organized wine tours are also available from {cityName}, and Le Clos des Rossignols offers personalized transport services for our clients.",
+          "category": "transport"
+        },
+        "q4": {
+          "question": "What are the recommended restaurants and wine estates near {cityName}?",
+          "answer": "The region around {cityName} is full of excellent restaurants and wine estates offering traditional French cuisine and local specialties. We particularly recommend the gastronomic restaurants of vineyards, authentic farm inns, and establishments offering local wines. Le Clos des Rossignols can provide you with a personalized list according to your preferences.",
+          "category": "food"
+        },
+        "q5": {
+          "question": "Are there activities for children in the vineyards around {cityName}?",
+          "answer": "Absolutely! The vineyards around {cityName} offer many family activities. Wine estates organize visits adapted for children, grape discovery workshops, and fun activities. Many outdoor activities are also available: hiking in vineyards, cycling between estates, and discovering viticultural nature.",
+          "category": "family"
+        },
+        "q6": {
+          "question": "Can you visit vineyards and cellars around {cityName} in winter?",
+          "answer": "Yes, most vineyards and cellars around {cityName} are open year-round, with adapted hours in winter. This period offers the advantage of lower attendance and a more authentic atmosphere. Cellars are particularly pleasant in winter for tasting aged wines and discovering the secrets of winemaking.",
+          "category": "season"
+        },
+        "q7": {
+          "question": "What accommodations are available in {cityName} near the vineyards?",
+          "answer": "In {cityName}, you will find our unique thematic houses from Le Clos des Rossignols, traditional guest rooms, rural cottages, and charming hotels. Our accommodations are located in exceptional settings in the heart of vineyards, offering modern comfort and viticultural authenticity. We also offer packages with breakfast and half-board.",
+          "category": "accommodation"
+        },
+        "q8": {
+          "question": "How to book vineyard and wine estate visits around {cityName}?",
+          "answer": "We recommend booking your vineyard visits in advance, especially during high season. You can book directly on the official wine estate websites, or contact us to organize private guided tours. Le Clos des Rossignols also offers packages combining accommodation and wine tours.",
+          "category": "booking"
+        },
+        "q9": {
+          "question": "Are there special wine events around {cityName}?",
+          "answer": "The region around {cityName} hosts many wine events throughout the year: wine festivals, temporary exhibitions, local producer markets, and traditional celebrations. Grape harvests, wine festivals, and Heritage Days are highlights not to be missed.",
+          "category": "events"
+        },
+        "q10": {
+          "question": "What wine and local products from {cityName} to bring back?",
+          "answer": "The region of {cityName} is renowned for its local wines, goat cheeses, artisanal jams, and local products. Vineyards often have their own shops with quality products. We also recommend products from local artisans: wines, liqueurs, and wine specialties.",
+          "category": "shopping"
+        },
+        "q11": {
+          "question": "How to organize a romantic stay in the vineyards around {cityName}?",
+          "answer": "For a romantic stay in the vineyards around {cityName}, we offer special packages including accommodation in our most romantic houses at Le Clos des Rossignols, candlelit dinners, private vineyard visits, and couple activities such as walks in the vineyards or intimate wine tastings.",
+          "category": "romance"
+        },
+        "q12": {
+          "question": "Can you go hiking in the vineyards around {cityName}?",
+          "answer": "The vineyards around {cityName} offer many hiking trails, including circuits between wine estates and paths in the viticultural countryside. The paths are well marked and accessible to all levels. Le Clos des Rossignols provides detailed maps and guides to accompany you in your discoveries.",
+          "category": "outdoor"
+        },
+        "q13": {
+          "question": "What are the opening hours of vineyards around {cityName}?",
+          "answer": "Vineyards around {cityName} are generally open year-round, with variable hours depending on the season. In summer, they are often open from 9am to 7pm, in winter from 9am to 5pm. We recommend booking in advance for tastings and guided tours.",
+          "category": "nature"
+        },
+        "q14": {
+          "question": "How to get to {cityName} and its vineyards from Paris?",
+          "answer": "From Paris, you can reach {cityName} and its vineyards by train (Saint-Aignan-sur-Cher station 15 minutes away), by car (about 2h30 via A10), or by bus. Le Clos des Rossignols also offers a transfer service from stations and airports to facilitate your arrival.",
+          "category": "culture"
+        },
+        "q15": {
+          "question": "Are there activities for people with reduced mobility in the vineyards around {cityName}?",
+          "answer": "Yes, most vineyards around {cityName} are adapted for people with reduced mobility. Wine estates offer specially designed visits, and our accommodations at Le Clos des Rossignols are equipped to welcome all types of visitors. We can organize personalized visits according to your needs.",
+          "category": "tips"
+        }
+      }
+    },
+    "chemery": {
+      "hero": {
+        "title": "Discover Chemery, Gateway to Beauval Zoo",
+        "subtitle": "Nestled in the heart of the Loire Valley, Chemery is the ideal starting point to explore France's largest zoo and the most beautiful castles in the region.",
+        "cta1": "Book my stay",
+        "cta2": "Discover the region"
+      },
+      "presentation": {
+        "title": "Chemery: A Village of Character",
+        "description1": "Located just 15 minutes from Beauval Zoo, Chemery is a charming village in the Loire Valley that combines rural authenticity with proximity to major tourist attractions.",
+        "description2": "With its traditional tuffeau stone houses, picturesque alleys and warm atmosphere, Chemery offers an authentic experience of local life.",
+        "distances": {
+          "beauval": "15 min",
+          "chenonceau": "25 min",
+          "chambord": "45 min",
+          "cheverny": "20 min"
+        },
+        "rating": "4.8/5",
+        "ratingText": "Average visitor rating"
+      },
+      "attractions": {
+        "title": "Chemery's Attractions and Surroundings",
+        "subtitle": "Discover the wonders that surround our village and enjoy a stay rich in discoveries and emotions.",
+        "beauval": {
+          "title": "Beauval Zoo",
+          "description": "France's largest zoo with over 35,000 animals",
+          "distance": "15 min",
+          "rating": "4.8/5",
+          "cta": "Book a visit →"
+        },
+        "chenonceau": {
+          "title": "Château de Chenonceau",
+          "description": "The Ladies' Castle, jewel of the Renaissance",
+          "distance": "25 min",
+          "rating": "4.7/5",
+          "cta": "Book a visit →"
+        },
+        "chambord": {
+          "title": "Château de Chambord",
+          "description": "The largest Loire castle, masterpiece of François I",
+          "distance": "45 min",
+          "rating": "4.6/5",
+          "cta": "Book a visit →"
+        },
+        "cheverny": {
+          "title": "Château de Cheverny",
+          "description": "Inhabited private castle, inspiration for Moulinsart Castle",
+          "distance": "20 min",
+          "rating": "4.5/5",
+          "cta": "Book a visit →"
+        }
+      },
+      "experiences": {
+        "title": "Authentic Local Experiences",
+        "subtitle": "Live the real life of Chemery and the Loire Valley with authentic experiences and unforgettable encounters with the locals.",
+        "cooking": {
+          "title": "Traditional Cooking Classes",
+          "description": "Learn to cook local specialties with passionate chefs in authentic castle kitchens.",
+          "cta": "Book a class →"
+        },
+        "craft": {
+          "title": "Craft Workshops",
+          "description": "Discover traditional know-how: pottery, basketry, and other regional crafts.",
+          "cta": "Book a workshop →"
+        },
+        "gardens": {
+          "title": "Secret Gardens Discovery",
+          "description": "Visit exceptional private gardens and learn the secrets of French garden art.",
+          "cta": "Book a visit →"
+        }
+      }
+    }
+  },
+  "citySearch": {
+    "placeholder": "Search for a city...",
+    "loading": "Loading...",
+    "noResults": "No city found",
+    "error": "Error loading cities"
+  },
+  "reservationModal": {
+    "title": "Book this house",
+    "characteristics": "Characteristics:",
+    "capacity": "Capacity:",
+    "price": "Price:",
+    "includedActivities": "Included activities:",
+    "form": {
+      "dates": "Stay dates",
+      "people": "Number of people",
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "submit": "Send my reservation"
+    },
+    "success": "Reservation sent! We will contact you quickly."
+  },
+  "animatedText": {
+    "cta1": [
+      "Ready for the Adventure?",
+      "Discover our accommodations",
+      "Live a unique experience",
+      "Le Clos des Rossignols"
+    ],
+    "cta2": [
+      "Ready for the Adventure?",
+      "Contact us",
+      "Book now",
+      "Live the experience"
+    ],
+    "final": [
+      "Tourist Activities & Unique Experiences",
+      "Loire Valley",
+      "Castles and vineyards",
+      "Unique experience"
+    ],
+    "cityPreview": [
+      "Loire Valley France - {cityName}",
+      "Discover {cityName}",
+      "Live the experience",
+      "Le Clos des Rossignols"
+    ]
+  },
+  "languages": {
+    "french": "Français",
+    "english": "English",
+      "spanish": "Español",
+  "german": "Deutsch"
+},
+"heroSection": {
+  "heroTitle": "Discover Le Clos des Rossignols",
+  "title": "After Beauval Zoo,",
+  "titleHighlight": "Live the Animal Experience",
+  "subtitle": "Discover our unique thematic houses, inspired by the animals you just admired at the ZooParc. Each house transports you to a different universe, extending the magic of your visit."
+},
+"animalCarousel": {
+  "slides": [
+    {
+      "title": "Monkey House",
+      "button": "Discover",
+      "src": "/animals/fungorilla.jpg"
+    },
+    {
+      "title": "Panda House",
+      "button": "Discover",
+      "src": "/animals/panda.jpg"
+    },
+    {
+      "title": "Lion House",
+      "button": "Discover",
+      "src": "/animals/blackpanther.jpg"
+    },
+    {
+      "title": "Elephant House",
+      "button": "Discover",
+      "src": "/animals/elephantbanner.jpg"
+    },
+    {
+      "title": "Giraffe House",
+      "button": "Discover",
+      "src": "/animals/giraffe.jpg"
+    },
+    {
+      "title": "Koala House",
+      "button": "Discover",
+      "src": "/animals/koala.jpg"
+    }
+  ]
+},
+"conversionSection": {
+  "title": "Why Choose Le Clos des Rossignols?",
+  "proximity": {
+    "title": "5 minutes from Beauval Zoo",
+    "description": "Take advantage of the proximity to visit the zoo several times during your stay"
+  },
+  "thematic": {
+    "title": "Unique Thematic Houses",
+    "description": "Each house tells a different story, extending the zoo experience"
+  },
+  "rest": {
+    "title": "Rest After Effort",
+    "description": "Come back to relax in comfort after a day of exploration"
+  },
+  "cta": "Book Now"
+},
+"animalScrollExperience": {
+  "experiences": [
+    {
+      "id": "panther",
+      "title": "Nocturnal Hunt",
+      "description": "Experience nocturnal hunting like a black panther in the mysterious forests of the Loire Valley.",
+      "image": "/animals/blackpanther.jpg",
+      "emoji": "🐆"
+    },
+    {
+      "id": "elephant",
+      "title": "Majestic Force",
+      "description": "Discover the power and wisdom of elephants by exploring the majestic castles of the French Renaissance.",
+      "image": "/animals/elephantbanner.jpg",
+      "emoji": "🐘"
+    },
+    {
+      "id": "gorilla",
+      "title": "Primate Intelligence",
+      "description": "Dive into the intelligence and creativity of gorillas by participating in traditional craft workshops.",
+      "image": "/animals/fungorilla.jpg",
+      "emoji": "🦍"
+    },
+    {
+      "id": "panda",
+      "title": "Zen Tranquility",
+      "description": "Find inner peace like a panda by visiting the secret and meditative gardens of the region.",
+      "image": "/animals/panda.jpg",
+      "emoji": "🐼"
+    },
+    {
+      "id": "giraffe",
+      "title": "View from Above",
+      "description": "Adopt the unique perspective of giraffes by exploring the towers and viewpoints of the Loire castles.",
+      "image": "/animals/giraffe.jpg",
+      "emoji": "🦒"
+    },
+    {
+      "id": "koala",
+      "title": "Natural Comfort",
+      "description": "Enjoy the comfort and softness of koalas by staying in our exclusive thematic houses.",
+      "image": "/animals/koala.jpg",
+      "emoji": "🐨"
+    }
+  ]
+},
+"parallaxSection": {
+  "title": "Beauval Zoo & Le Clos des Rossignols",
+  "subtitle": "Discover one of the most beautiful zoos in the world and stay in our unique thematic houses just minutes away",
+  "thematicHouses": {
+    "title": "Unique Thematic Houses",
+    "description": "9 houses inspired by wild animals: Elephants, Giraffes, Lions, Pandas and more",
+    "cta": "Discover our houses"
+  },
+  "beauvalZoo": {
+    "title": "Beauval ZooParc",
+    "description": "Over 35,000 animals in 22 thematic territories, ranked among the best zoos in the world",
+    "cta": "Visit the zoo"
+  },
+  "castles": {
+    "title": "Loire Castles",
+    "description": "Chambord, Chenonceau, Cheverny... Discover the most beautiful castles nearby",
+    "cta": "Explore the region"
+  }
+},
+"seoSection": {
+  "title": "Stay at Le Clos des Rossignols, Near Beauval Zoo",
+  "subtitle": "Discover our unique thematic houses in the Loire Valley, just minutes from Beauval ZooParc. An immersive experience in the heart of nature and Renaissance castles.",
+  "categories": {
+    "accommodations": {
+      "title": "Thematic Accommodations",
+      "features": [
+        "Houses inspired by wild animals",
+        "Modern comfort and authenticity",
+        "Capacity 4-6 people",
+        "Equipped kitchen and spacious living room"
+      ]
+    },
+    "beauval": {
+      "title": "Beauval ZooParc",
+      "features": [
+        "Over 35,000 animals",
+        "22 thematic territories",
+        "Ranked among the best zoos",
+        "5 minutes from Le Clos des Rossignols"
+      ]
+    },
+    "castles": {
+      "title": "Loire Castles",
+      "features": [
+        "Chambord, Chenonceau, Cheverny",
+        "Renaissance architecture",
+        "Historic gardens and parks",
+        "Exclusive guided tours"
+      ]
+    },
+    "activities": {
+      "title": "Activities & Experiences",
+      "features": [
+        "Local wine tastings",
+        "Bike rides in the region",
+        "Loire Valley gastronomy",
+        "Traditional crafts"
+      ]
+    },
+    "location": {
+      "title": "Location & Access",
+      "features": [
+        "Loire Valley, Centre-Val de Loire",
+        "2h30 from Paris by car",
+        "TGV station at Saint-Aignan",
+        "Free parking on site"
+      ]
+    },
+    "services": {
+      "title": "Services & Booking",
+      "features": [
+        "Secure online booking",
+        "Free cancellation up to 48h before",
+        "Personalized welcome",
+        "Advice and recommendations"
+      ]
+    }
+  },
+  "cta": {
+    "subtitle": "Ready to live a unique experience in the heart of the Loire Valley?",
+    "reserve": "Book Now",
+    "visitZoo": "Visit the Zoo"
+  }
+}
+} 
